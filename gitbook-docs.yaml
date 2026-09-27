@@ -1,0 +1,11 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: Minimal Computing Cosmology & WRRA Research History
+  structure:
+    - type: space
+      key: research-history
+      title: English Edition
+      path: en
+      default: true
+      content:
+        directory: ./
