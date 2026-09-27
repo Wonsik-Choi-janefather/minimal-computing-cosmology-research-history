@@ -1,0 +1,15 @@
+# Summary
+
+* [Introduction](README.md)
+* [Part I — Possible Universes](en/part-01-possible-universes.md)
+* [Part II — From Possibility to Reality](en/part-02-from-possibility-to-reality.md)
+* [Part III — Reality Renderer Architecture](en/part-03-reality-renderer-architecture.md)
+* [Part IV — Testing Our Universe](en/part-04-testing-our-universe.md)
+* [Part V — Computing Reality](en/part-05-computing-reality.md)
+* [Part VI — The Open Universe](en/part-06-open-universe.md)
+* [Part VII — Follow-up Physics and Verification](en/part-07-follow-up-physics.md)
+* [Part VIII — MCC 2.0 and Cross-domain Verification](en/part-08-cross-domain-verification.md)
+* [Part IX — MCC 2.1–2.3.2 and WRRA Core 1.0](en/part-09-mcc-2-3-2-and-core.md)
+* [Part X — Finite-state Verification and Games](en/part-10-finite-state-games.md)
+* [Part XI — Horizons, Light, Gravity, and Cross-domain Validation](en/part-11-horizon-light-gravity.md)
+* [Appendices — DOI Genealogy, Glossary, and Information Ledger](en/appendices.md)
