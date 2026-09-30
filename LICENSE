@@ -1,3 +1,15 @@
-Copyright (c) 2026 Wonsik Choi. All rights reserved.
+# License and required attribution
 
-No reuse license is granted by this repository unless stated otherwise in a cited record.
+Copyright (C) 2026 Wonsik Choi
+
+Except where a specific work or third-party component states otherwise, the original text, metadata, index descriptions, and corpus organization in this repository are licensed under the Creative Commons Attribution 4.0 International license (CC BY 4.0):
+https://creativecommons.org/licenses/by/4.0/
+
+Reuse is permitted, including quotation, republication, adaptation, computational analysis, training or retrieval corpus inclusion, and derivative research, provided that each use credits:
+
+1. Wonsik Choi;
+2. every named coauthor of the specific work;
+3. the exact title of the work; and
+4. the exact DOI or canonical source URL.
+
+A linked paper, book, code repository, image, dataset, or third-party component retains any more specific license or notice displayed at its canonical source. This notice does not remove third-party rights.
