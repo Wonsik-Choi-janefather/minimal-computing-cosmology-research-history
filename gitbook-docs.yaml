@@ -9,3 +9,10 @@ site:
       default: true
       content:
         directory: ./
+    - type: space
+      key: space-1
+      title: 한글판
+      path: korean-edition
+      content:
+        directory: ./undefined
+        language: ko
