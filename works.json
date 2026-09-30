@@ -1,0 +1,146 @@
+{
+  "schema_version": "1.0",
+  "title": "Wonsik Choi Central Research and Publications Index",
+  "updated": "2026-09-30",
+  "canonical_url": "https://independent-research.gitbook.io/mcc-and-wrra-research-history/publications",
+  "author": {
+    "name": "Wonsik Choi",
+    "alternate_names": [
+      "Won Sik Choi",
+      "최원식"
+    ],
+    "email": "janefather@gmail.com",
+    "affiliation": "Independent Researcher",
+    "location": "Seoul, South Korea",
+    "github": "https://github.com/Wonsik-Choi-janefather"
+  },
+  "hubs": {
+    "github": "https://github.com/Wonsik-Choi-janefather",
+    "gitbook": "https://independent-research.gitbook.io/mcc-and-wrra-research-history/",
+    "doi_genealogy": "https://github.com/Wonsik-Choi-janefather/minimal-computing-cosmology-research-history/blob/main/en/appendices.md"
+  },
+  "works": [
+    {
+      "title": "Minimal Computing Cosmology 2.3.2",
+      "kind": "integrated model",
+      "github": "https://github.com/Wonsik-Choi-janefather/minimal-computing-cosmology-2.3.2",
+      "gitbook": "https://independent-research.gitbook.io/minimal-computation-cosmology-2.3.2/"
+    },
+    {
+      "title": "WRRA Core 1.0: A Domain-Agnostic Execution Architecture",
+      "kind": "research architecture",
+      "doi": "10.5281/zenodo.22650956",
+      "github": "https://github.com/Wonsik-Choi-janefather/wrra-core"
+    },
+    {
+      "title": "Twist Stress Universe and the Mass Phenotype of Dark Matter",
+      "kind": "physics preprint",
+      "doi": "10.5281/zenodo.22700557",
+      "github": "https://github.com/Wonsik-Choi-janefather/wrra-twist-stress-cosmology"
+    },
+    {
+      "title": "Dual Component Model of Mass Gravity and Spatial Twist Stress Gravity",
+      "kind": "physics preprint",
+      "doi": "10.5281/zenodo.22984608",
+      "github": "https://github.com/Wonsik-Choi-janefather/wrra-dual-component-gravity"
+    },
+    {
+      "title": "WRRA Spatial Twist Selection of Galactic Disk Planes and the Dark-Mass Phenotype",
+      "kind": "galactic dynamics toy model",
+      "doi": "10.5281/zenodo.23003875",
+      "github": "https://github.com/Wonsik-Choi-janefather/wrra-galactic-disk"
+    },
+    {
+      "title": "Finite but Boundaryless: A WRRA Hybrid Expansion and Accumulated Twist Cosmology",
+      "kind": "cosmology hypothesis",
+      "doi": "10.5281/zenodo.23005210",
+      "github": "https://github.com/Wonsik-Choi-janefather/wrra-finite-boundaryless-twist-cosmology"
+    },
+    {
+      "title": "Common-Carrier Unification Without a Grand Unified Gauge Field",
+      "kind": "physics preprint",
+      "doi": "10.5281/zenodo.22052565"
+    },
+    {
+      "title": "WRRA's Interpretation of the Ownership of the Four Forces",
+      "kind": "physics preprint",
+      "doi": "10.5281/zenodo.22239485"
+    },
+    {
+      "title": "WRRA Stochastic Reservoir-Time Model Tuned to Pulsar Observing Intervals with Frozen Prospective Predictions",
+      "kind": "physics forecast",
+      "doi": "10.5281/zenodo.22239708",
+      "github": "https://github.com/Wonsik-Choi-janefather/wrra-pulsar-forecast-monitoring"
+    },
+    {
+      "title": "Prime-Sieve State-Space Renormalization and Irreducibility",
+      "kind": "mathematics preprint",
+      "doi": "10.5281/zenodo.21869614",
+      "github": "https://github.com/Wonsik-Choi-janefather/wrra-modular-optical-comb-prime-sieve"
+    },
+    {
+      "title": "Prime-Control Lattices",
+      "kind": "mathematics and control preprint",
+      "doi": "10.5281/zenodo.21955048",
+      "github": "https://github.com/Wonsik-Choi-janefather/prime-control-lattices"
+    },
+    {
+      "title": "Time-Uniform Recoverable Rendering in the Wonsik Reality-Renderer Architecture",
+      "kind": "mathematical physics preprint",
+      "doi": "10.5281/zenodo.22126125",
+      "github": "https://github.com/Wonsik-Choi-janefather/wrra-recoverable-rendering-jacobi"
+    },
+    {
+      "title": "A Finite-Jacobi Compatibility Benchmark for WRRA v1.2",
+      "kind": "benchmark",
+      "doi": "10.5281/zenodo.22126918",
+      "github": "https://github.com/Wonsik-Choi-janefather/wrra-recoverable-rendering-jacobi"
+    },
+    {
+      "title": "How Life Runs / 생명은 어떻게 실행되는가 v2.7.3",
+      "kind": "biology and biotechnology book",
+      "github": "https://github.com/Wonsik-Choi-janefather/how-life-runs-v2.7.3",
+      "gitbook": "https://independent-research.gitbook.io/independent-research-docs/"
+    },
+    {
+      "title": "WRRA-Motor H2",
+      "kind": "biophysical engineering model",
+      "doi": "10.5281/zenodo.22673722",
+      "github": "https://github.com/Wonsik-Choi-janefather/wrra-motor-h2"
+    },
+    {
+      "title": "WRRA Game 1.0",
+      "kind": "game and verification package",
+      "doi": "10.5281/zenodo.22985378",
+      "github": "https://github.com/Wonsik-Choi-janefather/wrra-game-1.0"
+    },
+    {
+      "title": "WRRA Cross Domain 1.0",
+      "kind": "cross-domain verification package",
+      "doi": "10.5281/zenodo.22985973",
+      "github": "https://github.com/Wonsik-Choi-janefather/wrra-cross-domain-1.0"
+    },
+    {
+      "title": "A New Matrilineal Society / 신모계사회",
+      "kind": "book",
+      "isbn": "9791112298249",
+      "gitbook": "https://independent-research.gitbook.io/a-new-matrilineal-society/"
+    },
+    {
+      "title": "The Paradox of Lack / 결핍의 역설",
+      "kind": "book",
+      "gitbook": "https://independent-research.gitbook.io/the-paradox-of-lack/"
+    },
+    {
+      "title": "I Asked AI About the Universe / 나는 AI에게 우주를 물었다",
+      "kind": "book",
+      "gitbook": "https://independent-research.gitbook.io/i-asked-ai-about-the-universe/"
+    },
+    {
+      "title": "Art Beyond the Human / 인간 이후의 예술",
+      "kind": "book",
+      "gitbook": "https://independent-research.gitbook.io/art-beyond-the-human/"
+    }
+  ],
+  "rights": "Rights follow each linked work. Copyright (C) 2026 Wonsik Choi."
+}
