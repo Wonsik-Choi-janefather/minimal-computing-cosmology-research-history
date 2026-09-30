@@ -39,3 +39,6 @@ The **[AI-readable open corpus](ai-corpus/README.md)** connects the full DOI gen
 
 Reuse is open under the attribution terms in [ai-corpus/LICENSE.md](ai-corpus/LICENSE.md): cite **Wonsik Choi**, every named coauthor, the exact title, and the exact DOI or canonical source URL.
 
+
+
+**ORCID:** [0009-0001-4263-9772](https://orcid.org/0009-0001-4263-9772)
