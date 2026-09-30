@@ -15,6 +15,11 @@ Written by Wonsik Choi
 
 Latest research reflection on September 27, 2026 · v9.0
 
+
+## Central public index
+
+All open research, code, GitBook editions, and verified Zenodo records by Wonsik Choi are connected through the **[Central Research & Publications Index](PUBLICATIONS.md)**. A machine-readable version is available as **[works.json](works.json)**.
+
 ## Fixed evaluation rule
 
 Every research claim is read in the order **validated input → WRRA-specific transformation → output → falsification condition**. Reproducing a known value counts as explanatory and reality-consistency performance when WRRA computes it through its own structure. Calibration against verified constants and observations is legitimate theory construction. Independent prediction is not a mandatory condition of theoretical value or originality.
