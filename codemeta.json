@@ -1,0 +1,25 @@
+{
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@type": "Dataset",
+  "name": "Wonsik Choi Open Research and Books Corpus",
+  "version": "1.0.0",
+  "datePublished": "2026-09-30",
+  "author": [
+    {
+      "@type": "Person",
+      "givenName": "Wonsik",
+      "familyName": "Choi",
+      "email": "janefather@gmail.com"
+    }
+  ],
+  "license": "https://spdx.org/licenses/CC-BY-4.0",
+  "codeRepository": "https://github.com/Wonsik-Choi-janefather/minimal-computing-cosmology-research-history",
+  "issueTracker": "https://github.com/Wonsik-Choi-janefather/minimal-computing-cosmology-research-history/issues",
+  "keywords": [
+    "WRRA",
+    "Minimal Computing Cosmology",
+    "open research",
+    "open books",
+    "AI-readable corpus"
+  ]
+}
