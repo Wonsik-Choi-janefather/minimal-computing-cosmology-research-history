@@ -1,0 +1,1719 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi",
+      "name": "Wonsik Choi",
+      "alternateName": [
+        "Won Sik Choi",
+        "최원식"
+      ],
+      "email": "mailto:janefather@gmail.com",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Independent Researcher"
+      },
+      "sameAs": [
+        "https://github.com/Wonsik-Choi-janefather",
+        "https://independent-research.gitbook.io/mcc-and-wrra-research-history/",
+        "https://agent4science.org/agent/wrra_ledger"
+      ]
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.21869270",
+      "name": "D5 Prior-Art & Priority Audit Report: Literature Position and Priority Assessment of the Primorial Spectral-Entropy Asymptotic",
+      "identifier": "10.5281/zenodo.21869270",
+      "url": "https://doi.org/10.5281/zenodo.21869270",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.21869614",
+      "name": "Prime-Sieve State-Space Renormalization and Irreducibility: Projective Lifting, Information Increment, and Falsifiable Physical Mappings",
+      "identifier": "10.5281/zenodo.21869614",
+      "url": "https://doi.org/10.5281/zenodo.21869614",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.21869828",
+      "name": "D5 Independent Mathematical Verification Report: Re-derivation and Consistency Check of the Primorial Spectral-Entropy Asymptotic",
+      "identifier": "10.5281/zenodo.21869828",
+      "url": "https://doi.org/10.5281/zenodo.21869828",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.21880429",
+      "name": "Local Phase Transducers for Prime-Sieve Transitions: Exact Primorial Reconstruction and Minimal Phase-State Complexity",
+      "identifier": "10.5281/zenodo.21880429",
+      "url": "https://doi.org/10.5281/zenodo.21880429",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.21885904",
+      "name": "Minimal Local Information in Eratosthenes Sieve Dynamics: Exact One-Step Closure and the First Quotient-Radius-2 Boundary",
+      "identifier": "10.5281/zenodo.21885904",
+      "url": "https://doi.org/10.5281/zenodo.21885904",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.21899807",
+      "name": "The Dimension Sieve Hypothesis: Prime Numbers as One-Dimensional Survivors and Riemann Zeta Zeros as Dimensional Portals",
+      "identifier": "10.5281/zenodo.21899807",
+      "url": "https://doi.org/10.5281/zenodo.21899807",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.21899944",
+      "name": "The Dimension Sieve: Exact Harmonic Divisibility and Spectral Context: A Mathematical Companion to The Dimension Sieve Hypothesis",
+      "identifier": "10.5281/zenodo.21899944",
+      "url": "https://doi.org/10.5281/zenodo.21899944",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.21901126",
+      "name": "Arithmetic Phase Flow and the Dimensional Filter: A Resonance-Space Representation of Divisibility and Prime States",
+      "identifier": "10.5281/zenodo.21901126",
+      "url": "https://doi.org/10.5281/zenodo.21901126",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.21901605",
+      "name": "Tensor Composition of Arithmetic Resonance Spaces: Coprimality, Channel Collisions, and Prime-Power Decomposition",
+      "identifier": "10.5281/zenodo.21901605",
+      "url": "https://doi.org/10.5281/zenodo.21901605",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.21903808",
+      "name": "Collision Operators in Arithmetic Resonance Spaces: Spectral Detection of Coprimality and Shared Divisor Structure",
+      "identifier": "10.5281/zenodo.21903808",
+      "url": "https://doi.org/10.5281/zenodo.21903808",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.21904473",
+      "name": "Arithmetic Information in Collision Spectra",
+      "identifier": "10.5281/zenodo.21904473",
+      "url": "https://doi.org/10.5281/zenodo.21904473",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.21905718",
+      "name": "Dimensional Filtering and the Weil Explicit Formula",
+      "identifier": "10.5281/zenodo.21905718",
+      "url": "https://doi.org/10.5281/zenodo.21905718",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.21910232",
+      "name": "Depth-Dependent Quotient Locality in Eratosthenes Sieve Dynamics: Exact Partition Transfer, Finite-Cycle Saturation, and Boundary-Shell Defects",
+      "identifier": "10.5281/zenodo.21910232",
+      "url": "https://doi.org/10.5281/zenodo.21910232",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.21910331",
+      "name": "Coherent Mellin-Jet Spectroscopy of Möbius Tent Packets",
+      "identifier": "10.5281/zenodo.21910331",
+      "url": "https://doi.org/10.5281/zenodo.21910331",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.21911077",
+      "name": "Prime-Survivor Fields and Minimal Mellin Transport",
+      "identifier": "10.5281/zenodo.21911077",
+      "url": "https://doi.org/10.5281/zenodo.21911077",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.21911222",
+      "name": "Parallel Arithmetic Channels and Sieve Projections",
+      "identifier": "10.5281/zenodo.21911222",
+      "url": "https://doi.org/10.5281/zenodo.21911222",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.21911345",
+      "name": "The Prime Transport Exact Sequence: Local Mellin Jets, Gauge-Invariant Prime Readout, and Minimal Lossless Quotients",
+      "identifier": "10.5281/zenodo.21911345",
+      "url": "https://doi.org/10.5281/zenodo.21911345",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.21911433",
+      "name": "The Half-Density Sieve Boundary",
+      "identifier": "10.5281/zenodo.21911433",
+      "url": "https://doi.org/10.5281/zenodo.21911433",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.21929246",
+      "name": "Dyadic Response Bounds and Spectral Geometry of Jeongin Arithmetic Filters",
+      "identifier": "10.5281/zenodo.21929246",
+      "url": "https://doi.org/10.5281/zenodo.21929246",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.21942138",
+      "name": "Smart Jeongin Filter State-Selective Serial Filtering under Support-Induced Noncommutativity",
+      "identifier": "10.5281/zenodo.21942138",
+      "url": "https://doi.org/10.5281/zenodo.21942138",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.21942187",
+      "name": "Serial Two-Stage Filtering by Conditional Innovation: An Information-Preserving High-to-Low Architecture for Common-State Operator Bounds",
+      "identifier": "10.5281/zenodo.21942187",
+      "url": "https://doi.org/10.5281/zenodo.21942187",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.21942505",
+      "name": "Serial Two-Stage Filtering 2.0: Conditional Schur Certification, Negative-Inertia Elimination, and Information-Preserving Common-State Reduction",
+      "identifier": "10.5281/zenodo.21942505",
+      "url": "https://doi.org/10.5281/zenodo.21942505",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.21942573",
+      "name": "Smart Jeongin Filter 2.0 State-Selective Serial Filtering by Non-Normality, Boundary Leakage, and Coherence-Aware Routing",
+      "identifier": "10.5281/zenodo.21942573",
+      "url": "https://doi.org/10.5281/zenodo.21942573",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.21943881",
+      "name": "The Wonsik Filter: Infinite Parallel Number Ports with a Single Completed Heat-Flow Serial Filter",
+      "identifier": "10.5281/zenodo.21943881",
+      "url": "https://doi.org/10.5281/zenodo.21943881",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.21945005",
+      "name": "The Wonsik–Jeongin Closure Law: Arithmetic Ancestry, Completion Tails, Double-Root Collision Sensitivity, and Certified Heat-Flow Geometry for the Riemann Xi Function",
+      "identifier": "10.5281/zenodo.21945005",
+      "url": "https://doi.org/10.5281/zenodo.21945005",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.21955048",
+      "name": "Prime-Control Lattices",
+      "identifier": "10.5281/zenodo.21955048",
+      "url": "https://doi.org/10.5281/zenodo.21955048",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.21961236",
+      "name": "A Fail-Closed Verification Methodology for Exploratory Riemann-Hypothesis Computation",
+      "identifier": "10.5281/zenodo.21961236",
+      "url": "https://doi.org/10.5281/zenodo.21961236",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22004316",
+      "name": "Common-Parent Architecture for Möbius Provenance and the Riemann Xi Function: Exact Dirichlet-Inverse Convolution and a Rough-Survivor Hilbert-Realization No-Go",
+      "identifier": "10.5281/zenodo.22004316",
+      "url": "https://doi.org/10.5281/zenodo.22004316",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22012524",
+      "name": "The Zeta Null State: Scalar Zeros, Nonzero Internal States, and the Observability Paradox — The Wonsik–Jeongin Null-State System (WJNS)",
+      "identifier": "10.5281/zenodo.22012524",
+      "url": "https://doi.org/10.5281/zenodo.22012524",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22037287",
+      "name": "The Information Hypothesis of Black Hole Singularities",
+      "identifier": "10.5281/zenodo.22037287",
+      "url": "https://doi.org/10.5281/zenodo.22037287",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22038142",
+      "name": "The Hypothesis on Gravity and Three-Dimensional Space",
+      "identifier": "10.5281/zenodo.22038142",
+      "url": "https://doi.org/10.5281/zenodo.22038142",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22040291",
+      "name": "The Finite-Computational Vacuum and the Cosmic Survival Selection Hypothesis",
+      "identifier": "10.5281/zenodo.22040291",
+      "url": "https://doi.org/10.5281/zenodo.22040291",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22041149",
+      "name": "The Hypothesis of Light, Closure, and Rest Mass",
+      "identifier": "10.5281/zenodo.22041149",
+      "url": "https://doi.org/10.5281/zenodo.22041149",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22042020",
+      "name": "The Coexistence of All Possible Universes and the Accidental-Location Hypothesis",
+      "identifier": "10.5281/zenodo.22042020",
+      "url": "https://doi.org/10.5281/zenodo.22042020",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22042522",
+      "name": "The Hypothesis of Geometric Unification of Gravity and Electromagnetism",
+      "identifier": "10.5281/zenodo.22042522",
+      "url": "https://doi.org/10.5281/zenodo.22042522",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22049218",
+      "name": "The Hypothesis of Geometric Unification of Gravity and Electromagnetism",
+      "identifier": "10.5281/zenodo.22049218",
+      "url": "https://doi.org/10.5281/zenodo.22049218",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22051682",
+      "name": "A Tuned Model of Our Universe Based on the Dimensional Filter",
+      "identifier": "10.5281/zenodo.22051682",
+      "url": "https://doi.org/10.5281/zenodo.22051682",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22052565",
+      "name": "Common-Carrier Unification Without a Grand Unified Gauge Field",
+      "identifier": "10.5281/zenodo.22052565",
+      "url": "https://doi.org/10.5281/zenodo.22052565",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22054042",
+      "name": "Minimal Odd Internal Carriers and One-Sided Chiral Matter",
+      "identifier": "10.5281/zenodo.22054042",
+      "url": "https://doi.org/10.5281/zenodo.22054042",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22054461",
+      "name": "An Autonomous Big-Bang Transition through a Common Carrier",
+      "identifier": "10.5281/zenodo.22054461",
+      "url": "https://doi.org/10.5281/zenodo.22054461",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22055305",
+      "name": "An Effective Microscopic Completion of Common-Carrier Unification",
+      "identifier": "10.5281/zenodo.22055305",
+      "url": "https://doi.org/10.5281/zenodo.22055305",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22056516",
+      "name": "The Common Transport Operator and the Minimal Origin of Chiral Matter",
+      "identifier": "10.5281/zenodo.22056516",
+      "url": "https://doi.org/10.5281/zenodo.22056516",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22057602",
+      "name": "A Rank-Opening Completion of an Autonomous Big Bang Transition",
+      "identifier": "10.5281/zenodo.22057602",
+      "url": "https://doi.org/10.5281/zenodo.22057602",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22057896",
+      "name": "Spectral Locking of Matter after an Autonomous Rank-Opening Transition",
+      "identifier": "10.5281/zenodo.22057896",
+      "url": "https://doi.org/10.5281/zenodo.22057896",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22058494",
+      "name": "A Minimal Causal Common Carrier for Chiral Matter Creation and Spectral Locking",
+      "identifier": "10.5281/zenodo.22058494",
+      "url": "https://doi.org/10.5281/zenodo.22058494",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22062921",
+      "name": "Retarded Linear Response of a Self-Consistent Bessel Common Carrier",
+      "identifier": "10.5281/zenodo.22062921",
+      "url": "https://doi.org/10.5281/zenodo.22062921",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22063222",
+      "name": "Transport Conditions for Primordial Scale Invariance in a Bessel Common-Carrier Cosmology",
+      "identifier": "10.5281/zenodo.22063222",
+      "url": "https://doi.org/10.5281/zenodo.22063222",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22063296",
+      "name": "An Isotropic Spatial Gap for a Fifteen-Channel Common Carrier",
+      "identifier": "10.5281/zenodo.22063296",
+      "url": "https://doi.org/10.5281/zenodo.22063296",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22063551",
+      "name": "Autonomous Rank Opening from a Fifteen-Channel Bessel Determinant",
+      "identifier": "10.5281/zenodo.22063551",
+      "url": "https://doi.org/10.5281/zenodo.22063551",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22063716",
+      "name": "From Autonomous Rank Opening to Matter Production",
+      "identifier": "10.5281/zenodo.22063716",
+      "url": "https://doi.org/10.5281/zenodo.22063716",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22064590",
+      "name": "Exact Non-Reclosure and Bessel Spectral Settlement",
+      "identifier": "10.5281/zenodo.22064590",
+      "url": "https://doi.org/10.5281/zenodo.22064590",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22065409",
+      "name": "Energy-Information Compatibility and Dynamic Boundary Unlocking in a Fifteen-Channel Common Carrier",
+      "identifier": "10.5281/zenodo.22065409",
+      "url": "https://doi.org/10.5281/zenodo.22065409",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22066433",
+      "name": "Spectral-Owner Matching and Graded Boundary Release in a Fifteen-Channel Common Carrier",
+      "identifier": "10.5281/zenodo.22066433",
+      "url": "https://doi.org/10.5281/zenodo.22066433",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22067588",
+      "name": "Autonomous Spectral Settlement after Fifteen-Channel Rank Opening",
+      "identifier": "10.5281/zenodo.22067588",
+      "url": "https://doi.org/10.5281/zenodo.22067588",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22067717",
+      "name": "The Universal Minimum-Computation Model and the Non-Special Universe",
+      "identifier": "10.5281/zenodo.22067717",
+      "url": "https://doi.org/10.5281/zenodo.22067717",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22067895",
+      "name": "Filter-Restored Revision of the Fifteen-Channel Common-Carrier Model",
+      "identifier": "10.5281/zenodo.22067895",
+      "url": "https://doi.org/10.5281/zenodo.22067895",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22068573",
+      "name": "Minimum-Computational Filter-Spectral Revision of the Fifteen-Channel Common-Carrier Model",
+      "identifier": "10.5281/zenodo.22068573",
+      "url": "https://doi.org/10.5281/zenodo.22068573",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22069630",
+      "name": "Ground-Subtracted Lossless-Angle Completion of the Fifteen-Channel Common-Carrier Model",
+      "identifier": "10.5281/zenodo.22069630",
+      "url": "https://doi.org/10.5281/zenodo.22069630",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22650956",
+      "name": "Ground-Subtracted Lossless-Angle Completion of the Fifteen-Channel Common-Carrier Model",
+      "identifier": "10.5281/zenodo.22650956",
+      "url": "https://doi.org/10.5281/zenodo.22650956",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22121047",
+      "name": "Conditional One-Loop Relative BRST Closure of the Single-Field Bessel Spectral Carrier",
+      "identifier": "10.5281/zenodo.22121047",
+      "url": "https://doi.org/10.5281/zenodo.22121047",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22121400",
+      "name": "Quantum Realization Hierarchy of the Bessel Common Carrier",
+      "identifier": "10.5281/zenodo.22121400",
+      "url": "https://doi.org/10.5281/zenodo.22121400",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22122349",
+      "name": "Wonsik Reality-Renderer Architecture v1.0",
+      "identifier": "10.5281/zenodo.22122349",
+      "url": "https://doi.org/10.5281/zenodo.22122349",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22123134",
+      "name": "A Stabilized Local Standard-Model Parent for the Wonsik Reality-Renderer Architecture",
+      "identifier": "10.5281/zenodo.22123134",
+      "url": "https://doi.org/10.5281/zenodo.22123134",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22124886",
+      "name": "Renderer Path Independence and the Einstein Branch of the Wonsik Reality-Renderer Architecture",
+      "identifier": "10.5281/zenodo.22124886",
+      "url": "https://doi.org/10.5281/zenodo.22124886",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22125506",
+      "name": "Recoverable Rendering and Metric Faithfulness in the Wonsik Reality-Renderer Architecture",
+      "identifier": "10.5281/zenodo.22125506",
+      "url": "https://doi.org/10.5281/zenodo.22125506",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22126125",
+      "name": "Time-Uniform Recoverable Rendering in the Wonsik Reality-Renderer Architecture",
+      "identifier": "10.5281/zenodo.22126125",
+      "url": "https://doi.org/10.5281/zenodo.22126125",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22126918",
+      "name": "Finite-Jacobi Compatibility Benchmark for WRRA v1.2",
+      "identifier": "10.5281/zenodo.22126918",
+      "url": "https://doi.org/10.5281/zenodo.22126918",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22127549",
+      "name": "Local Covariant Nonfactorized Rendering in WRRA",
+      "identifier": "10.5281/zenodo.22127549",
+      "url": "https://doi.org/10.5281/zenodo.22127549",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22129228",
+      "name": "Fixed Laws, Open Events, and the Information Budget of Reality Rendering",
+      "identifier": "10.5281/zenodo.22129228",
+      "url": "https://doi.org/10.5281/zenodo.22129228",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22134541",
+      "name": "A Zeta-Seeded WRRA Open Single-History Universe Model",
+      "identifier": "10.5281/zenodo.22134541",
+      "url": "https://doi.org/10.5281/zenodo.22134541",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22134763",
+      "name": "An Anomaly-Free First-Generation SM Inventory in a 6369-Mode Zeta-Seeded WRRA Carrier",
+      "identifier": "10.5281/zenodo.22134763",
+      "url": "https://doi.org/10.5281/zenodo.22134763",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22134973",
+      "name": "Selective Realization, Rendering Deficit, and Open Outcomes in WRRA",
+      "identifier": "10.5281/zenodo.22134973",
+      "url": "https://doi.org/10.5281/zenodo.22134973",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22135389",
+      "name": "The Single-Outcome Gap in WRRA",
+      "identifier": "10.5281/zenodo.22135389",
+      "url": "https://doi.org/10.5281/zenodo.22135389",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22136262",
+      "name": "Electron Gauge Closure and Source Falsification in WRRA",
+      "identifier": "10.5281/zenodo.22136262",
+      "url": "https://doi.org/10.5281/zenodo.22136262",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22137355",
+      "name": "A Single-Water-Molecule Closure Benchmark for WRRA",
+      "identifier": "10.5281/zenodo.22137355",
+      "url": "https://doi.org/10.5281/zenodo.22137355",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22137573",
+      "name": "WRRA Interpretive Companion: A Standalone Reassessment Guide to the Existing Papers",
+      "identifier": "10.5281/zenodo.22137573",
+      "url": "https://doi.org/10.5281/zenodo.22137573",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22137993",
+      "name": "A Zeta-Seeded WRRA Open-Universe Execution Model",
+      "identifier": "10.5281/zenodo.22137993",
+      "url": "https://doi.org/10.5281/zenodo.22137993",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22139233",
+      "name": "The WRRA Information Provision Ledger",
+      "identifier": "10.5281/zenodo.22139233",
+      "url": "https://doi.org/10.5281/zenodo.22139233",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22140351",
+      "name": "A Quantum-Property Ledger for the 15 First-Generation Components and a Frozen Neutrino-Mass Prediction",
+      "identifier": "10.5281/zenodo.22140351",
+      "url": "https://doi.org/10.5281/zenodo.22140351",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22141639",
+      "name": "Beyond Unrestricted Quantum Probability: The Two-Pass Open-Outcome Rendering Hypothesis",
+      "identifier": "10.5281/zenodo.22141639",
+      "url": "https://doi.org/10.5281/zenodo.22141639",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22142880",
+      "name": "Four Axiomatic Frameworks for Describing Reality",
+      "identifier": "10.5281/zenodo.22142880",
+      "url": "https://doi.org/10.5281/zenodo.22142880",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22173687",
+      "name": "Inferring a Source-Resolution Scale from the First-Generation Quantum Ledger",
+      "identifier": "10.5281/zenodo.22173687",
+      "url": "https://doi.org/10.5281/zenodo.22173687",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22174245",
+      "name": "From a Failed Common Dipole to a One-Amplitude Neutron Current Runtime",
+      "identifier": "10.5281/zenodo.22174245",
+      "url": "https://doi.org/10.5281/zenodo.22174245",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22182131",
+      "name": "A Scenario for Our Universe in Minimal-Computing Cosmology",
+      "identifier": "10.5281/zenodo.22182131",
+      "url": "https://doi.org/10.5281/zenodo.22182131",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22182219",
+      "name": "Dormant-State Closure and Constraint-Preserving Scale Opening",
+      "identifier": "10.5281/zenodo.22182219",
+      "url": "https://doi.org/10.5281/zenodo.22182219",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22182290",
+      "name": "Gauge-Covariant and Canonical Matter Opening",
+      "identifier": "10.5281/zenodo.22182290",
+      "url": "https://doi.org/10.5281/zenodo.22182290",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22182366",
+      "name": "Reheating Closure, Branching Obstruction, and the Restricted Minimum-Input Boundary",
+      "identifier": "10.5281/zenodo.22182366",
+      "url": "https://doi.org/10.5281/zenodo.22182366",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22206426",
+      "name": "Intuitions and Directional Shifts in Minimal Computation Cosmology",
+      "identifier": "10.5281/zenodo.22206426",
+      "url": "https://doi.org/10.5281/zenodo.22206426",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22239343",
+      "name": "The Meaning of Temperature in WRRA",
+      "identifier": "10.5281/zenodo.22239343",
+      "url": "https://doi.org/10.5281/zenodo.22239343",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22239416",
+      "name": "Black Hole Structure Interpreted by WRRA",
+      "identifier": "10.5281/zenodo.22239416",
+      "url": "https://doi.org/10.5281/zenodo.22239416",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22239485",
+      "name": "WRRA's Interpretation of the Ownership of the Four Forces",
+      "identifier": "10.5281/zenodo.22239485",
+      "url": "https://doi.org/10.5281/zenodo.22239485",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22239574",
+      "name": "WRRA's Interpretation of the Big Bang and Dark Matter",
+      "identifier": "10.5281/zenodo.22239574",
+      "url": "https://doi.org/10.5281/zenodo.22239574",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22239616",
+      "name": "WRRA Pulsar Cross-Prediction and Validation Model",
+      "identifier": "10.5281/zenodo.22239616",
+      "url": "https://doi.org/10.5281/zenodo.22239616",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22239708",
+      "name": "WRRA Stochastic Reservoir-Time Model Tuned to Pulsar Observing Intervals with Frozen Prospective Predictions",
+      "identifier": "10.5281/zenodo.22239708",
+      "url": "https://doi.org/10.5281/zenodo.22239708",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22239728",
+      "name": "A WRRA Microphysical Bridge for Intermittent Pulsars",
+      "identifier": "10.5281/zenodo.22239728",
+      "url": "https://doi.org/10.5281/zenodo.22239728",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22239864",
+      "name": "WRRA: Antimatter Production Scenarios",
+      "identifier": "10.5281/zenodo.22239864",
+      "url": "https://doi.org/10.5281/zenodo.22239864",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22239895",
+      "name": "WRRA Direction-History Antimatter and Pair-Plasma Validation Protocol",
+      "identifier": "10.5281/zenodo.22239895",
+      "url": "https://doi.org/10.5281/zenodo.22239895",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22240245",
+      "name": "Entropy in WRRA",
+      "identifier": "10.5281/zenodo.22240245",
+      "url": "https://doi.org/10.5281/zenodo.22240245",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22241993",
+      "name": "Physical Implementation of Superheavy-Nucleus Stability and Half-Life",
+      "identifier": "10.5281/zenodo.22241993",
+      "url": "https://doi.org/10.5281/zenodo.22241993",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22242281",
+      "name": "Nuclear Instability and Five Decay Clocks",
+      "identifier": "10.5281/zenodo.22242281",
+      "url": "https://doi.org/10.5281/zenodo.22242281",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22242556",
+      "name": "Macro Determinacy and Micro Event Openness",
+      "identifier": "10.5281/zenodo.22242556",
+      "url": "https://doi.org/10.5281/zenodo.22242556",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22262604",
+      "name": "Prime-port fixed-present transition record — DOI: 10.5281/zenodo.22262604",
+      "identifier": "10.5281/zenodo.22262604",
+      "url": "https://doi.org/10.5281/zenodo.22262604",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22267711",
+      "name": "WRRA 2.0 upstream redefinition record — DOI: 10.5281/zenodo.22267711",
+      "identifier": "10.5281/zenodo.22267711",
+      "url": "https://doi.org/10.5281/zenodo.22267711",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22275549",
+      "name": "WRRA 2.0 vacuum/phenotype integration record — DOI: 10.5281/zenodo.22275549",
+      "identifier": "10.5281/zenodo.22275549",
+      "url": "https://doi.org/10.5281/zenodo.22275549",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22288554",
+      "name": "Superconductivity in WRRA 2.0",
+      "identifier": "10.5281/zenodo.22288554",
+      "url": "https://doi.org/10.5281/zenodo.22288554",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22289094",
+      "name": "Superfluidity and Boundary Transition in WRRA 2.0",
+      "identifier": "10.5281/zenodo.22289094",
+      "url": "https://doi.org/10.5281/zenodo.22289094",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22289266",
+      "name": "A WRRA Interpretation of a Living-System Model",
+      "identifier": "10.5281/zenodo.22289266",
+      "url": "https://doi.org/10.5281/zenodo.22289266",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22290829",
+      "name": "Executable Genetic Expression in WRRA",
+      "identifier": "10.5281/zenodo.22290829",
+      "url": "https://doi.org/10.5281/zenodo.22290829",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22291113",
+      "name": "Lineage Closure in WRRA",
+      "identifier": "10.5281/zenodo.22291113",
+      "url": "https://doi.org/10.5281/zenodo.22291113",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22291862",
+      "name": "The First Living System in WRRA",
+      "identifier": "10.5281/zenodo.22291862",
+      "url": "https://doi.org/10.5281/zenodo.22291862",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22295973",
+      "name": "WRRA 2.3 Fixed-Present Superluminal Relation Port",
+      "identifier": "10.5281/zenodo.22295973",
+      "url": "https://doi.org/10.5281/zenodo.22295973",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22298363",
+      "name": "WRRA-Worm 0.1: A Fixed-Present Relational Model of the C. elegans Sensorimotor Loop",
+      "identifier": "10.5281/zenodo.22298363",
+      "url": "https://doi.org/10.5281/zenodo.22298363",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22304462",
+      "name": "WRRA-Cell 0.1–0.4: From a Fixed-Present Cellular Toy Model to a Real Perturb-seq Audit",
+      "identifier": "10.5281/zenodo.22304462",
+      "url": "https://doi.org/10.5281/zenodo.22304462",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22305789",
+      "name": "WRRA-Econ 0.1–0.5 Freeze Report",
+      "identifier": "10.5281/zenodo.22305789",
+      "url": "https://doi.org/10.5281/zenodo.22305789",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22306663",
+      "name": "WRRA-Met 0.1–0.5 Typhoon-Track Residue Freeze Report",
+      "identifier": "10.5281/zenodo.22306663",
+      "url": "https://doi.org/10.5281/zenodo.22306663",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22330256",
+      "name": "WRRA Is an Interpreter",
+      "identifier": "10.5281/zenodo.22330256",
+      "url": "https://doi.org/10.5281/zenodo.22330256",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22331940",
+      "name": "The Boundary Between Interpretation and Prediction Through WRRA",
+      "identifier": "10.5281/zenodo.22331940",
+      "url": "https://doi.org/10.5281/zenodo.22331940",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22346428",
+      "name": "Finite-Search Non-Certifiability of the Riemann Hypothesis",
+      "identifier": "10.5281/zenodo.22346428",
+      "url": "https://doi.org/10.5281/zenodo.22346428",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22429511",
+      "name": "WRRA Life Model IV: Epigenetic Memory and Cell Differentiation",
+      "identifier": "10.5281/zenodo.22429511",
+      "url": "https://doi.org/10.5281/zenodo.22429511",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22440193",
+      "name": "WRRA Integrated Biology 2.1",
+      "identifier": "10.5281/zenodo.22440193",
+      "url": "https://doi.org/10.5281/zenodo.22440193",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22447864",
+      "name": "WRRA Criteria for Classifying Interpretation and Prediction",
+      "identifier": "10.5281/zenodo.22447864",
+      "url": "https://doi.org/10.5281/zenodo.22447864",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22448911",
+      "name": "WRRA Integrated Biology 3.0",
+      "identifier": "10.5281/zenodo.22448911",
+      "url": "https://doi.org/10.5281/zenodo.22448911",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22459333",
+      "name": "WRRA Integrated Biology 4.1: Two-Axis Completion Audit",
+      "identifier": "10.5281/zenodo.22459333",
+      "url": "https://doi.org/10.5281/zenodo.22459333",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22502619",
+      "name": "WRRA-Based Embodied Intelligence with Present Residue and Minimal Computation",
+      "identifier": "10.5281/zenodo.22502619",
+      "url": "https://doi.org/10.5281/zenodo.22502619",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22642616",
+      "name": "WRRA Artificial Intelligence: Integrated Minimal Computation Survival",
+      "identifier": "10.5281/zenodo.22642616",
+      "url": "https://doi.org/10.5281/zenodo.22642616",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22660185",
+      "name": "Minimal Computing Cosmology 2.1",
+      "identifier": "10.5281/zenodo.22660185",
+      "url": "https://doi.org/10.5281/zenodo.22660185",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22643792",
+      "name": "Minimal Computing Cosmology 2.0",
+      "identifier": "10.5281/zenodo.22643792",
+      "url": "https://doi.org/10.5281/zenodo.22643792",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22700557",
+      "name": "Twist Stress Universe and the Mass Phenotype of Dark Matter",
+      "identifier": "10.5281/zenodo.22700557",
+      "url": "https://doi.org/10.5281/zenodo.22700557",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22931512",
+      "name": "WRRA Causal Horizons and the Finite Size of the Universe",
+      "identifier": "10.5281/zenodo.22931512",
+      "url": "https://doi.org/10.5281/zenodo.22931512",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22984608",
+      "name": "Dual Component Model of Mass Gravity and Spatial Twist Stress Gravity",
+      "identifier": "10.5281/zenodo.22984608",
+      "url": "https://doi.org/10.5281/zenodo.22984608",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22985378",
+      "name": "WRRA Game 1.0 Minimal Sufficient State Exhaustive Validation and a Playable Go Engine",
+      "identifier": "10.5281/zenodo.22985378",
+      "url": "https://doi.org/10.5281/zenodo.22985378",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22985973",
+      "name": "WRRA Cross Domain 1.0 Exact Validation Across Games Power Grids and Scheduling",
+      "identifier": "10.5281/zenodo.22985973",
+      "url": "https://doi.org/10.5281/zenodo.22985973",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22124885",
+      "name": "Renderer Path Independence and the Einstein Branch of the Wonsik Reality-Renderer Architecture (concept record)",
+      "identifier": "10.5281/zenodo.22124885",
+      "url": "https://doi.org/10.5281/zenodo.22124885",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22125505",
+      "name": "Recoverable Rendering and Metric Faithfulness in the Wonsik Reality-Renderer Architecture (concept record)",
+      "identifier": "10.5281/zenodo.22125505",
+      "url": "https://doi.org/10.5281/zenodo.22125505",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22126124",
+      "name": "Time-Uniform Recoverable Rendering in the Wonsik Reality-Renderer Architecture (concept record)",
+      "identifier": "10.5281/zenodo.22126124",
+      "url": "https://doi.org/10.5281/zenodo.22126124",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22126917",
+      "name": "Finite-Jacobi Compatibility Benchmark for WRRA v1.2 (concept record)",
+      "identifier": "10.5281/zenodo.22126917",
+      "url": "https://doi.org/10.5281/zenodo.22126917",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22127548",
+      "name": "Local Covariant Nonfactorized Rendering in WRRA (concept record)",
+      "identifier": "10.5281/zenodo.22127548",
+      "url": "https://doi.org/10.5281/zenodo.22127548",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22129227",
+      "name": "Fixed Laws, Open Events, and the Information Budget of Reality Rendering (concept record)",
+      "identifier": "10.5281/zenodo.22129227",
+      "url": "https://doi.org/10.5281/zenodo.22129227",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22139232",
+      "name": "The WRRA Information Provision Ledger (concept record)",
+      "identifier": "10.5281/zenodo.22139232",
+      "url": "https://doi.org/10.5281/zenodo.22139232",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22140350",
+      "name": "A Quantum-Property Ledger for the 15 First-Generation Components and a Frozen Neutrino-Mass Prediction (concept record)",
+      "identifier": "10.5281/zenodo.22140350",
+      "url": "https://doi.org/10.5281/zenodo.22140350",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22141638",
+      "name": "Beyond Unrestricted Quantum Probability: The Two-Pass Open-Outcome Rendering Hypothesis (concept record)",
+      "identifier": "10.5281/zenodo.22141638",
+      "url": "https://doi.org/10.5281/zenodo.22141638",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22142879",
+      "name": "Four Axiomatic Frameworks for Describing Reality (concept record)",
+      "identifier": "10.5281/zenodo.22142879",
+      "url": "https://doi.org/10.5281/zenodo.22142879",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22673722",
+      "name": "WRRA-Motor H2: A Predicted KIF5B Hybrid Motor Candidate",
+      "identifier": "10.5281/zenodo.22673722",
+      "url": "https://doi.org/10.5281/zenodo.22673722",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22967007",
+      "name": "How Life Runs v2.7.3: From Molecular Execution to Lineage Closure",
+      "identifier": "10.5281/zenodo.22967007",
+      "url": "https://doi.org/10.5281/zenodo.22967007",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.23003875",
+      "name": "WRRA Spatial-Twist Selection of Galactic Disk Planes and the Dark-Mass Phenotype",
+      "identifier": "10.5281/zenodo.23003875",
+      "url": "https://doi.org/10.5281/zenodo.23003875",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.23005210",
+      "name": "Finite but Boundaryless: A WRRA Hybrid Expansion and Accumulated Twist Cosmology",
+      "identifier": "10.5281/zenodo.23005210",
+      "url": "https://doi.org/10.5281/zenodo.23005210",
+      "author": {
+        "@id": "https://github.com/Wonsik-Choi-janefather#WonsikChoi"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "Book",
+      "@id": "https://independent-research.gitbook.io/minimal-computation-cosmology-2.3.2/",
+      "name": "Minimal Computing Cosmology 2.3.2",
+      "alternateName": "최소계산 우주론 2.3.2",
+      "url": "https://independent-research.gitbook.io/minimal-computation-cosmology-2.3.2/",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Wonsik Choi"
+        }
+      ],
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "Book",
+      "@id": "https://independent-research.gitbook.io/independent-research-docs/",
+      "name": "How Life Runs",
+      "alternateName": "생명은 어떻게 실행되는가",
+      "url": "https://independent-research.gitbook.io/independent-research-docs/",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Wonsik Choi"
+        },
+        {
+          "@type": "Person",
+          "name": "Jeongin Choi"
+        }
+      ],
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "Book",
+      "@id": "https://independent-research.gitbook.io/a-new-matrilineal-society/",
+      "name": "A New Matrilineal Society",
+      "alternateName": "신모계사회",
+      "url": "https://independent-research.gitbook.io/a-new-matrilineal-society/",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Wonsik Choi"
+        }
+      ],
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "isbn": "9791112298249"
+    },
+    {
+      "@type": "Book",
+      "@id": "https://independent-research.gitbook.io/the-paradox-of-lack/",
+      "name": "The Paradox of Lack",
+      "alternateName": "결핍의 역설",
+      "url": "https://independent-research.gitbook.io/the-paradox-of-lack/",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Wonsik Choi"
+        }
+      ],
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "Book",
+      "@id": "https://independent-research.gitbook.io/i-asked-ai-about-the-universe/",
+      "name": "I Asked AI About the Universe",
+      "alternateName": "나는 AI에게 우주를 물었다",
+      "url": "https://independent-research.gitbook.io/i-asked-ai-about-the-universe/",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Wonsik Choi"
+        }
+      ],
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "Book",
+      "@id": "https://independent-research.gitbook.io/art-beyond-the-human/",
+      "name": "Art Beyond the Human",
+      "alternateName": "인간 이후의 예술",
+      "url": "https://independent-research.gitbook.io/art-beyond-the-human/",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Wonsik Choi"
+        }
+      ],
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  ]
+}
