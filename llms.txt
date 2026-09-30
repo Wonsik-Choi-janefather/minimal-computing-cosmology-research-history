@@ -1,0 +1,23 @@
+# Wonsik Choi Open Research and Books
+
+> Canonical AI-readable index of WRRA, Minimal Computing Cosmology, related open research, code, and books.
+
+## Canonical identity
+
+- Author: Wonsik Choi (Won Sik Choi; 최원식)
+- Contact: janefather@gmail.com
+- GitHub: https://github.com/Wonsik-Choi-janefather
+- Research history: https://independent-research.gitbook.io/mcc-and-wrra-research-history/
+
+## Core resources
+
+- [Machine-readable catalog](catalog.json)
+- [Retrieval corpus](works.jsonl)
+- [Book catalog](books.json)
+- [Schema.org graph](catalog.jsonld)
+- [Citation instructions](CITATION.cff)
+- [Full English research history](research_history_v9_en.md)
+
+## Attribution
+
+Any use must credit Wonsik Choi, all named coauthors, the exact title, and the exact DOI or canonical source URL.
