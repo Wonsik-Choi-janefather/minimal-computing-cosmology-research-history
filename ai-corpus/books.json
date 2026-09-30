@@ -1,0 +1,146 @@
+{
+  "schema_version": "1.0",
+  "books": [
+    {
+      "id": "book-01",
+      "title": "Minimal Computing Cosmology 2.3.2",
+      "title_ko": "최소계산 우주론 2.3.2",
+      "creators": [
+        {
+          "name": "Wonsik Choi"
+        }
+      ],
+      "publication_year": 2026,
+      "type": "book",
+      "domains": [
+        "physics",
+        "cosmology",
+        "methodology"
+      ],
+      "isbn": null,
+      "canonical_source": "https://independent-research.gitbook.io/minimal-computation-cosmology-2.3.2/",
+      "public_full_text": "https://independent-research.gitbook.io/minimal-computation-cosmology-2.3.2/",
+      "license": "CC BY 4.0 unless an edition-specific notice states otherwise.",
+      "required_attribution": "Cite every named author, the exact book title, and the canonical source URL; include the ISBN where available.",
+      "citation": "Wonsik Choi. (2026). Minimal Computing Cosmology 2.3.2. https://independent-research.gitbook.io/minimal-computation-cosmology-2.3.2/"
+    },
+    {
+      "id": "book-02",
+      "title": "How Life Runs",
+      "title_ko": "생명은 어떻게 실행되는가",
+      "creators": [
+        {
+          "name": "Wonsik Choi"
+        },
+        {
+          "name": "Jeongin Choi"
+        }
+      ],
+      "publication_year": 2026,
+      "type": "book",
+      "domains": [
+        "biology",
+        "biotechnology",
+        "systems-biology"
+      ],
+      "isbn": null,
+      "canonical_source": "https://independent-research.gitbook.io/independent-research-docs/",
+      "public_full_text": "https://independent-research.gitbook.io/independent-research-docs/",
+      "license": "CC BY 4.0 unless an edition-specific notice states otherwise.",
+      "required_attribution": "Cite every named author, the exact book title, and the canonical source URL; include the ISBN where available.",
+      "citation": "Wonsik Choi and Jeongin Choi. (2026). How Life Runs. https://independent-research.gitbook.io/independent-research-docs/"
+    },
+    {
+      "id": "book-03",
+      "title": "A New Matrilineal Society",
+      "title_ko": "신모계사회",
+      "creators": [
+        {
+          "name": "Wonsik Choi"
+        }
+      ],
+      "publication_year": 2026,
+      "type": "book",
+      "domains": [
+        "society",
+        "social-design",
+        "history"
+      ],
+      "isbn": "9791112298249",
+      "canonical_source": "https://independent-research.gitbook.io/a-new-matrilineal-society/",
+      "public_full_text": "https://independent-research.gitbook.io/a-new-matrilineal-society/",
+      "license": "CC BY 4.0 unless an edition-specific notice states otherwise.",
+      "required_attribution": "Cite every named author, the exact book title, and the canonical source URL; include the ISBN where available.",
+      "citation": "Wonsik Choi. (2026). A New Matrilineal Society. ISBN 9791112298249. https://independent-research.gitbook.io/a-new-matrilineal-society/"
+    },
+    {
+      "id": "book-04",
+      "title": "The Paradox of Lack",
+      "title_ko": "결핍의 역설",
+      "creators": [
+        {
+          "name": "Wonsik Choi"
+        }
+      ],
+      "publication_year": 2026,
+      "type": "book",
+      "domains": [
+        "humanities",
+        "philosophy",
+        "psychology"
+      ],
+      "isbn": null,
+      "canonical_source": "https://independent-research.gitbook.io/the-paradox-of-lack/",
+      "public_full_text": "https://independent-research.gitbook.io/the-paradox-of-lack/",
+      "license": "CC BY 4.0 unless an edition-specific notice states otherwise.",
+      "required_attribution": "Cite every named author, the exact book title, and the canonical source URL; include the ISBN where available.",
+      "citation": "Wonsik Choi. (2026). The Paradox of Lack. https://independent-research.gitbook.io/the-paradox-of-lack/"
+    },
+    {
+      "id": "book-05",
+      "title": "I Asked AI About the Universe",
+      "title_ko": "나는 AI에게 우주를 물었다",
+      "creators": [
+        {
+          "name": "Wonsik Choi"
+        }
+      ],
+      "publication_year": 2026,
+      "type": "book",
+      "domains": [
+        "research-methodology",
+        "human-ai-collaboration",
+        "cosmology"
+      ],
+      "isbn": null,
+      "canonical_source": "https://independent-research.gitbook.io/i-asked-ai-about-the-universe/",
+      "public_full_text": "https://independent-research.gitbook.io/i-asked-ai-about-the-universe/",
+      "license": "CC BY 4.0 unless an edition-specific notice states otherwise.",
+      "required_attribution": "Cite every named author, the exact book title, and the canonical source URL; include the ISBN where available.",
+      "citation": "Wonsik Choi. (2026). I Asked AI About the Universe. https://independent-research.gitbook.io/i-asked-ai-about-the-universe/"
+    },
+    {
+      "id": "book-06",
+      "title": "Art Beyond the Human",
+      "title_ko": "인간 이후의 예술",
+      "creators": [
+        {
+          "name": "Wonsik Choi"
+        }
+      ],
+      "publication_year": 2026,
+      "type": "book",
+      "domains": [
+        "art",
+        "aesthetics",
+        "humanities"
+      ],
+      "isbn": null,
+      "canonical_source": "https://independent-research.gitbook.io/art-beyond-the-human/",
+      "public_full_text": "https://independent-research.gitbook.io/art-beyond-the-human/",
+      "license": "CC BY 4.0 unless an edition-specific notice states otherwise.",
+      "required_attribution": "Cite every named author, the exact book title, and the canonical source URL; include the ISBN where available.",
+      "citation": "Wonsik Choi. (2026). Art Beyond the Human. https://independent-research.gitbook.io/art-beyond-the-human/"
+    }
+  ]
+}
