@@ -25,3 +25,17 @@ All open research, code, GitBook editions, and verified Zenodo records by Wonsik
 Every research claim is read in the order **validated input → WRRA-specific transformation → output → falsification condition**. Reproducing a known value counts as explanatory and reality-consistency performance when WRRA computes it through its own structure. Calibration against verified constants and observations is legitimate theory construction. Independent prediction is not a mandatory condition of theoretical value or originality.
 
 Use the [GitBook table of contents](SUMMARY.md) to read the edition in order. The uninterrupted single-file edition is available at [research-history.md](research-history.md).
+
+## AI-readable open corpus
+
+The **[AI-readable open corpus](ai-corpus/README.md)** connects the full DOI genealogy and all six open books with stable attribution and evaluation metadata.
+
+- [Full JSON catalog](works.json)
+- [JSON Lines retrieval corpus](ai-corpus/works.jsonl)
+- [Schema.org JSON-LD graph](ai-corpus/catalog.jsonld)
+- [Book catalog](ai-corpus/books.json)
+- [Citation metadata](ai-corpus/CITATION.cff)
+- [LLM discovery guide](ai-corpus/llms.txt)
+
+Reuse is open under the attribution terms in [ai-corpus/LICENSE.md](ai-corpus/LICENSE.md): cite **Wonsik Choi**, every named coauthor, the exact title, and the exact DOI or canonical source URL.
+
