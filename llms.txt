@@ -11,12 +11,12 @@
 
 ## Core resources
 
-- [Machine-readable catalog](catalog.json)
-- [Retrieval corpus](works.jsonl)
-- [Book catalog](books.json)
-- [Schema.org graph](catalog.jsonld)
+- [Machine-readable catalog](works.json)
+- [Retrieval corpus](ai-corpus/works.jsonl)
+- [Book catalog](ai-corpus/books.json)
+- [Schema.org graph](ai-corpus/catalog.jsonld)
 - [Citation instructions](CITATION.cff)
-- [Full English research history](research_history_v9_en.md)
+- [Full English research history](research-history.md)
 
 ## Attribution
 
