@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: >-
+  Cite the exact work used, naming Wonsik Choi and all named coauthors,
+  and include its DOI or canonical source URL.
+title: Wonsik Choi Open Research and Books Corpus
+type: dataset
+authors:
+  - family-names: Choi
+    given-names: Wonsik
+    email: janefather@gmail.com
+date-released: 2026-09-30
+version: 1.0.0
+license: CC-BY-4.0
+repository-code: https://github.com/Wonsik-Choi-janefather/minimal-computing-cosmology-research-history
+url: https://independent-research.gitbook.io/mcc-and-wrra-research-history/
+keywords:
+  - WRRA
+  - Wonsik Reality Renderer Architecture
+  - Minimal Computing Cosmology
+  - open research
+  - open books
