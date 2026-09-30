@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+* [Central Research & Publications Index](PUBLICATIONS.md)
 * [Part I — Possible Universes](en/part-01-possible-universes.md)
 * [Part II — From Possibility to Reality](en/part-02-from-possibility-to-reality.md)
 * [Part III — Reality Renderer Architecture](en/part-03-reality-renderer-architecture.md)
