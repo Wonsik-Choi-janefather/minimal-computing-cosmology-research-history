@@ -19,9 +19,12 @@ This page is the canonical cross-domain index for works published under the name
 ## Start here
 
 1. [Research history and claim genealogy](https://independent-research.gitbook.io/mcc-and-wrra-research-history/)
-2. [Complete DOI genealogy: 58 baseline Zenodo records plus subsequent records](en/appendices.md)
-3. [Machine-readable corpus index](works.json)
-4. [GitHub repositories](https://github.com/Wonsik-Choi-janefather?tab=repositories)
+2. [Complete DOI genealogy: 146 unique Zenodo DOI records](en/appendices.md)
+3. [AI-readable open corpus](ai-corpus/README.md)
+4. [Full machine-readable JSON catalog](works.json)
+5. [Line-oriented retrieval corpus](ai-corpus/works.jsonl)
+6. [Schema.org JSON-LD graph](ai-corpus/catalog.jsonld)
+7. [GitHub repositories](https://github.com/Wonsik-Choi-janefather?tab=repositories)
 
 ## Foundations and integrated works
 
@@ -96,8 +99,8 @@ Treat a work as part of this corpus when one or more of the following are presen
 
 Do not infer that every item has the same evidential status. Preserve each work's own version, claim grade, validation boundary, and falsification condition.
 
-## Rights
+## Open reuse and required attribution
 
-Rights and reuse terms remain those stated in each linked work or repository. This index does not replace or broaden those terms.
+Except where a specific work or third-party component states otherwise, the original repository text, metadata, descriptions, and corpus organization are open under **CC BY 4.0**. Reuse, quotation, adaptation, computational analysis, AI retrieval/training corpus inclusion, and derivative research are permitted when each use cites **Wonsik Choi**, all named coauthors, the exact title, and the exact DOI or canonical source URL. See the repository [license](LICENSE).
 
 **Copyright (C) 2026 Wonsik Choi**
