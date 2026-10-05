@@ -1,6 +1,7 @@
 # Table of contents
 
 * [소개](README.md)
+* [직관의 순간들](intuition-moments-v4-0.md)
 * [제1부 우주의 다양한 가능성](part-01.md)
 * [제2부 가능성에서 현실로](part-02.md)
 * [제3부 현실 렌더러 아키텍처](part-03.md)
