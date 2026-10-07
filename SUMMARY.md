@@ -16,3 +16,6 @@
 * [Part X — Finite-state Verification and Games](en/part-10-finite-state-games.md)
 * [Part XI — Horizons, Light, Gravity, and Cross-domain Validation](en/part-11-horizon-light-gravity.md)
 * [Appendices — DOI Genealogy, Glossary, and Information Ledger](en/appendices.md)
+* [Minimal Computing Cosmology 3.0](minimal-computing-cosmology-3.0/README.md)
+  * [Full Integrated Paper](minimal-computing-cosmology-3.0/full-integrated-paper.md)
+  * [Cosmology & Gravitation Executive Summary](minimal-computing-cosmology-3.0/cosmology-and-gravitation-executive-summary.md)
