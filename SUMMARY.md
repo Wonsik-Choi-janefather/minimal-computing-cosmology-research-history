@@ -20,3 +20,6 @@
   * [Full Integrated Paper](minimal-computing-cosmology-3.0/full-integrated-paper.md)
   * [Cosmology & Gravitation Executive Summary](minimal-computing-cosmology-3.0/cosmology-and-gravitation-executive-summary.md)
   * [Particle Theory & Fundamental Physics Executive Summary](minimal-computing-cosmology-3.0/particle-theory-and-fundamental-physics-executive-summary.md)
+  * [Quantum Foundations & Information Physics Executive Summary](minimal-computing-cosmology-3.0/quantum-foundations-and-information-physics-executive-summary.md)
+  * [Topology & Geometric Physics Executive Summary](minimal-computing-cosmology-3.0/topology-and-geometric-physics-executive-summary.md)
+  * [Number Theory & Mathematical Physics Executive Summary](minimal-computing-cosmology-3.0/number-theory-and-mathematical-physics-executive-summary.md)
