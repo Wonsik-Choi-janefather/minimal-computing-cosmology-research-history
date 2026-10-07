@@ -1,4 +1,4 @@
-# Topology & Geometric Physics Executive Summary
+# Finite Boundaryless Closure, Klein-Type Identification, and Twist Residue
 
 ## A Topology and Geometric Physics Executive Paper for Minimal Computing Cosmology 3.0
 
@@ -20,6 +20,16 @@ The full chain connects a finite-source candidate to address generation, filteri
 The six-stage computational integration is **PASS**. The integrated scientific model remains **PASS-C** because the physical necessity of the Klein-type quotient, the finite phase boundary, and the product construction remain conditional.
 
 ***
+
+## Common Carrier in the MCC 3.0 architecture
+
+The candidate Klein-type closure acts at the level of the **Common Carrier**: the shared finite state substrate that transports the generated address state through orientation reversal, filtering, residue formation, and later physical rendering.
+
+The intended chain is:
+
+**finite SOURCE -> Common Carrier -> global closure / holonomy -> filter / quantization -> residue -> component / phenotype -> information load -> energy -> gravity -> observables**
+
+The Common Carrier is therefore the object that must ultimately carry the topology. A quotient written only at the level of labels, without a carrier on which transport and residue are defined, would be incomplete.
 
 ## Abstract
 

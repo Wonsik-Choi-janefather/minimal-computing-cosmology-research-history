@@ -1,4 +1,4 @@
-# Number Theory & Mathematical Physics Executive Summary
+# A Finite Klein-Zeta Address Generator
 
 ## A Number Theory and Mathematical Physics Executive Paper for Minimal Computing Cosmology 3.0
 
@@ -20,6 +20,16 @@ Its focus is narrow: the finite arithmetic generator that replaces the former pr
 The six-stage computational integration is **PASS**. The integrated scientific model remains **PASS-C** because the finite-source product law, the phase boundary, and the physical necessity of the Klein-type closure remain conditional.
 
 ***
+
+## Common Carrier in the MCC 3.0 architecture
+
+The finite SOURCE does not connect directly to particle or cosmological outputs. Its generated address state is first placed on a **Common Carrier**, which is the shared finite state substrate on which filtering, quantization, residue retention, and later physical ownership are executed.
+
+For this number-theory view, the role of the finite generator is therefore:
+
+**finite SOURCE -> finite integer addresses -> Common Carrier -> filter / quantization -> residue -> component / phenotype -> information load -> energy -> gravity -> observables**
+
+This distinction matters. The integers are not themselves particles, fields, or observables. They are finite execution addresses carried by a common substrate before any physical phenotype is rendered.
 
 ## Abstract
 
