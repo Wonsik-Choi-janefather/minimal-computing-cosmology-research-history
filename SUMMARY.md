@@ -19,3 +19,4 @@
 * [Minimal Computing Cosmology 3.0](minimal-computing-cosmology-3.0/README.md)
   * [Full Integrated Paper](minimal-computing-cosmology-3.0/full-integrated-paper.md)
   * [Cosmology & Gravitation Executive Summary](minimal-computing-cosmology-3.0/cosmology-and-gravitation-executive-summary.md)
+  * [Particle Theory & Fundamental Physics Executive Summary](minimal-computing-cosmology-3.0/particle-theory-and-fundamental-physics-executive-summary.md)
