@@ -42,3 +42,9 @@ Reuse is open under the attribution terms in [ai-corpus/LICENSE.md](ai-corpus/LI
 
 
 **ORCID:** [0009-0001-4263-9772](https://orcid.org/0009-0001-4263-9772)
+
+## WRRA Neuropsychology v0.3
+
+[WRRA 신경심리학 Korean manuscript and source](https://github.com/Wonsik-Choi-janefather/minimal-computing-cosmology-research-history/tree/main/books/wrra-neuropsychology) · [Public GitBook](https://independent-research.gitbook.io/wrra-neuropsychology/)
+
+The 10-part, 45-chapter edition uses the WRRA academic series chapter format. Appendix F records the common writing contract. The package includes the Word manuscript and reproducible hypothetical calculations. Core 1.0 definitions are preserved; conceptual mappings, computations, and empirical validation status are distinguished.
