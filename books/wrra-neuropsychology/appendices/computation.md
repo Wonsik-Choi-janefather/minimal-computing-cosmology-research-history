@@ -1,5 +1,7 @@
 # 부록 D 계산 결과와 재현 코드
 
+수치 표시 규칙: 비율·확률과 계산 산출값은 소수점 여섯 자리로 반올림해 표시한다. 횟수·가상 입력 상수 및 정수로 설명한 통계량은 원래 표기를 유지한다. 내부 연산은 반올림하지 않으며, 표시된 값으로 후속 계산을 수행하지 않는다.
+
 가상 모형을 Python 표준 라이브러리만으로 실행했다. 외부 자료와 외부 난수는 사용하지 않는다. 다음 값은 사람에게서 관측한 수치가 아니며 단위 없는 모형 값이다.
 
 ## D1 기억 흔적 유지
@@ -51,19 +53,19 @@ for failures in range(6):
 # Additional calculations in the expanded manuscript
 import statistics
 changes = [4, 2, 6, 2, 6]
-print("mean", statistics.mean(changes))
-print("sample_sd", statistics.stdev(changes))
-print("mean_se", statistics.stdev(changes) / math.sqrt(len(changes)))
-print("retention_0.95_at_10", 0.95 ** 10)
-print("fixed_point", 0.4 / (1 - 0.8))
-print("fixed_high", probability(2.0, 1.0))
-print("fixed_low", probability(2.0, 0.3))
+print("mean", f"{statistics.mean(changes):.6f}")
+print("sample_sd", f"{statistics.stdev(changes):.6f}")
+print("mean_se", f"{statistics.stdev(changes) / math.sqrt(len(changes)):.6f}")
+print("retention_0.95_at_10", f"{0.95 ** 10:.6f}")
+print("fixed_point", f"{0.4 / (1 - 0.8):.6f}")
+print("fixed_high", f"{probability(2.0, 1.0):.6f}")
+print("fixed_low", f"{probability(2.0, 0.3):.6f}")
 r = 0.0
 for _ in range(5):
     r = 0.8 * r + 0.4
 for _ in range(5):
     r = 0.8 * r
-print("after_no_new_failure_5", r, probability(r, 1.0))
+print("after_no_new_failure_5", f"{r:.6f}", f"{probability(r, 1.0):.6f}")
 
 # A rescaled hidden trace can give identical observable probabilities
 r1 = r2 = 0.0
@@ -75,7 +77,7 @@ for _ in range(6):
     max_difference = max(max_difference, abs(p1 - p2))
     r1 = 0.8 * r1 + 0.4
     r2 = 0.8 * r2 + 0.8
-print("scale_change_max_difference", max_difference)
+print("scale_change_max_difference", f"{max_difference:.6f}")
 ```
 판정은 가상 규칙의 실행과 수치 재현이다. 원시 가정에서 자연의 상수를 유도한 결과나 임상 효과의 검증으로 분류하지 않는다. 제시한 코드를 같은 입력으로 실행하면 반올림한 표의 값이 재현되어야 한다.
 

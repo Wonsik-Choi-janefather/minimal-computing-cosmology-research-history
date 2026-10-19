@@ -21,19 +21,19 @@ for failures in range(6):
 # Additional calculations in the expanded manuscript
 import statistics
 changes = [4, 2, 6, 2, 6]
-print("mean", statistics.mean(changes))
-print("sample_sd", statistics.stdev(changes))
-print("mean_se", statistics.stdev(changes) / math.sqrt(len(changes)))
-print("retention_0.95_at_10", 0.95 ** 10)
-print("fixed_point", 0.4 / (1 - 0.8))
-print("fixed_high", probability(2.0, 1.0))
-print("fixed_low", probability(2.0, 0.3))
+print("mean", f"{statistics.mean(changes):.6f}")
+print("sample_sd", f"{statistics.stdev(changes):.6f}")
+print("mean_se", f"{statistics.stdev(changes) / math.sqrt(len(changes)):.6f}")
+print("retention_0.95_at_10", f"{0.95 ** 10:.6f}")
+print("fixed_point", f"{0.4 / (1 - 0.8):.6f}")
+print("fixed_high", f"{probability(2.0, 1.0):.6f}")
+print("fixed_low", f"{probability(2.0, 0.3):.6f}")
 r = 0.0
 for _ in range(5):
     r = 0.8 * r + 0.4
 for _ in range(5):
     r = 0.8 * r
-print("after_no_new_failure_5", r, probability(r, 1.0))
+print("after_no_new_failure_5", f"{r:.6f}", f"{probability(r, 1.0):.6f}")
 
 # A rescaled hidden trace can give identical observable probabilities
 r1 = r2 = 0.0
@@ -45,4 +45,4 @@ for _ in range(6):
     max_difference = max(max_difference, abs(p1 - p2))
     r1 = 0.8 * r1 + 0.4
     r2 = 0.8 * r2 + 0.8
-print("scale_change_max_difference", max_difference)
+print("scale_change_max_difference", f"{max_difference:.6f}")
