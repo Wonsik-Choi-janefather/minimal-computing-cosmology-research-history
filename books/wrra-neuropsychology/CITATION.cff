@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "Please cite Wonsik Choi and the exact edition."
+type: book
+title: "WRRA Neuropsychology Exploring WRRA’s Potential for Integration Across Disciplines"
+version: "0.8"
+date-released: 2026-10-19
+authors:
+  - family-names: Choi
+    given-names: Wonsik
+    orcid: "https://orcid.org/0009-0001-4263-9772"
+license: CC-BY-4.0
+url: "https://independent-research.gitbook.io/wrra-neuropsychology/en"
+references:
+  - type: article
+    title: "WRRA Core 1.0 A Domain-Agnostic Execution Architecture"
+    authors:
+      - family-names: Choi
+        given-names: Wonsik
+    doi: "10.5281/zenodo.22650956"
+    version: "1.0.0"

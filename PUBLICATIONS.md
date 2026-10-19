@@ -77,7 +77,7 @@ This page is the canonical cross-domain index for works published under the name
 | I Asked AI About the Universe | 나는 AI에게 우주를 물었다 | [GitBook](https://independent-research.gitbook.io/i-asked-ai-about-the-universe/) |
 | Art Beyond the Human | 인간 이후의 예술 | [GitBook](https://independent-research.gitbook.io/art-beyond-the-human/) |
 
-| WRRA Neuropsychology v0.7 | WRRA 신경심리학 · 이종 학문 통합 탐구와 본문 연구 근거 보강 | [GitBook](https://independent-research.gitbook.io/wrra-neuropsychology/) · [Manuscript and source](https://github.com/Wonsik-Choi-janefather/minimal-computing-cosmology-research-history/tree/main/books/wrra-neuropsychology) |
+| WRRA Neuropsychology v0.8 | WRRA 신경심리학 · 국영문 전체판과 Core 1.0 원논문 연결 | [GitBook](https://independent-research.gitbook.io/wrra-neuropsychology/) · [English GitBook](https://independent-research.gitbook.io/wrra-neuropsychology/en) · [Manuscript and source](https://github.com/Wonsik-Choi-janefather/minimal-computing-cosmology-research-history/tree/main/books/wrra-neuropsychology) |
 
 ## Zenodo archive and DOI genealogy
 
@@ -106,3 +106,4 @@ Do not infer that every item has the same evidential status. Preserve each work'
 Except where a specific work or third-party component states otherwise, the original repository text, metadata, descriptions, and corpus organization are open under **CC BY 4.0**. Reuse, quotation, adaptation, computational analysis, AI retrieval/training corpus inclusion, and derivative research are permitted when each use cites **Wonsik Choi**, all named coauthors, the exact title, and the exact DOI or canonical source URL. See the repository [license](LICENSE).
 
 **Copyright (C) 2026 Wonsik Choi**
+

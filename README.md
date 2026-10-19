@@ -43,7 +43,7 @@ Reuse is open under the attribution terms in [ai-corpus/LICENSE.md](ai-corpus/LI
 
 **ORCID:** [0009-0001-4263-9772](https://orcid.org/0009-0001-4263-9772)
 
-## WRRA Neuropsychology v0.7
+## WRRA Neuropsychology v0.8
 
 [WRRA 신경심리학 Korean manuscript and source](https://github.com/Wonsik-Choi-janefather/minimal-computing-cosmology-research-history/tree/main/books/wrra-neuropsychology) · [Public GitBook](https://independent-research.gitbook.io/wrra-neuropsychology/)
 
@@ -52,3 +52,6 @@ The 10-part, 45-chapter edition uses the WRRA academic series chapter format. Ap
 The v0.7 edition frames psychology and neuroscience as a case study of WRRA cross-disciplinary integration. It includes a fuller WRRA introduction and claim-level citations, with 19 research explanations in 17 chapters and 64 external references. Existing research findings, WRRA interpretations and hypothetical computations are identified separately.
 
 The v0.7 editorial revision restores chapter references, clarifies subsection hierarchy, consolidates repeated reading rules, standardizes reproducible output precision, and adds a worked cross-disciplinary example. It incorporates AI editorial review; empirical validation status is unchanged.
+
+The v0.8 bilingual edition adds the complete [English text](books/wrra-neuropsychology/en/README.md) and [English GitBook](https://independent-research.gitbook.io/wrra-neuropsychology/en). The preface, Appendix A11 and reference W1 link this domain application to the frozen [WRRA Core 1.0 paper](https://doi.org/10.5281/zenodo.22650956). This is a book revision, not a revision of Core 1.0. AI-assisted editorial and translation review is documented; it is not external journal peer review.
+

@@ -4,9 +4,9 @@
 
 W는 기존 WRRA 저작, R은 외부 참고자료다. 외부 자료는 검증과 보강 및 분야의 정의에 사용한다. 해당 자료의 소개만으로 그 이론이나 기제가 WRRA 내부에서 계산되었다고 표시하지 않는다. 아래 목록은 원고의 주요 출처이며 분야별 망라 문헌목록은 아니다.
 
-**[W1]** 최원식. WRRA Core 1.0 동결본 응용계보포함. 2026년 9월 7일. 기존 저자 원고. Core 정의와 부록 A의 기준 문서.
+**[W1](https://doi.org/10.5281/zenodo.22650956) 최원식(Wonsik Choi). WRRA Core 1.0: A Domain-Agnostic Execution Architecture. v1.0.0, 2026년 9월 7일 동결. DOI:** [https://doi.org/10.5281/zenodo.22650956](https://doi.org/10.5281/zenodo.22650956). Core 정의와 부록 A의 기준 논문. 원문 절과 이 책의 연결은 부록 A11 참조. [공식 원문 전문](https://github.com/Wonsik-Choi-janefather/wrra-core/blob/main/WRRA_Core_1.0_EN.md)
 
-**[W2]** 최원식·최정인. 생명은 어떻게 실행되는가. 출판최종본 v2.7.3. 2026년 9월 21일 수정본. 제1장 WRRA 해설과 실행 구조를 참조.
+**[W2](https://github.com/Wonsik-Choi-janefather/how-life-runs-v2.7.3)** 최원식·최정인. 생명은 어떻게 실행되는가. 출판최종본 v2.7.3. 2026년 9월 21일 수정본. 제1장 WRRA 해설과 실행 구조를 참조.
 
 [R1](https://openstax.org/details/books/psychology-2e) Spielman, R. M., Jenkins, W. J., & Lovett, M. D. Psychology 2e. OpenStax, 2020. https://openstax.org/details/books/psychology-2e — 기초 개념의 개론 근거. 본문에서 절 번호를 함께 표시하며 아래 절별 URL로 연결한다. 특정 실험의 직접 근거와는 구분한다.
 

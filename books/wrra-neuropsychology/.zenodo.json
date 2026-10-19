@@ -1,0 +1,41 @@
+{
+  "title": "WRRA Neuropsychology: Exploring WRRA's Potential for Integration Across Disciplines — Korean and English Edition v0.8",
+  "upload_type": "publication",
+  "publication_type": "book",
+  "publication_date": "2026-10-19",
+  "version": "0.8",
+  "creators": [
+    {
+      "name": "Choi, Wonsik",
+      "orcid": "0009-0001-4263-9772",
+      "affiliation": "Independent Researcher"
+    }
+  ],
+  "description": "Complete Korean and English editions, ten parts, 45 chapters and six appendices. Psychology and neuroscience serve as a case study of cross-disciplinary integration through WRRA. Prefaces, Appendix A11 and reference W1 link this domain application to the frozen WRRA Core 1.0 source paper. Conceptual correspondences (INFERRED), hypothetical calculations (COMPUTATIONAL PASS), and empirical validation remaining OPEN are distinguished. Calibration and reproduction through the architecture are legitimate explanatory achievements. Editorial and translation review used Astra at medium reasoning effort; this is AI-assisted editorial review, not external journal peer review.",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "keywords": [
+    "WRRA",
+    "neuropsychology",
+    "psychology",
+    "neuroscience",
+    "interdisciplinary integration"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.22650956",
+      "relation": "references",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "https://independent-research.gitbook.io/wrra-neuropsychology/en",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://github.com/Wonsik-Choi-janefather/minimal-computing-cosmology-research-history/tree/main/books/wrra-neuropsychology",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}
