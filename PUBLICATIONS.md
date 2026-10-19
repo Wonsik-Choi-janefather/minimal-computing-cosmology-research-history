@@ -8,7 +8,7 @@ English: **Central index of the open research, code, books, and archival records
 **Identity and contact:** [janefather@gmail.com](mailto:janefather@gmail.com)  
 **GitHub:** [Wonsik-Choi-janefather](https://github.com/Wonsik-Choi-janefather)  
 **Canonical GitBook:** [Minimal Computing Cosmology & WRRA Research History](https://independent-research.gitbook.io/mcc-and-wrra-research-history/)  
-**Last updated:** 18 October 2026
+**Last updated:** 19 October 2026
 
 This page is the canonical cross-domain index for works published under the names **Wonsik Choi**, **Won Sik Choi**, and **최원식**, including the **Wonsik Reality Renderer Architecture (WRRA)** and **Minimal Computing Cosmology (MCC)** research lines. The common identity anchor is `janefather@gmail.com`.
 
@@ -77,7 +77,7 @@ This page is the canonical cross-domain index for works published under the name
 | I Asked AI About the Universe | 나는 AI에게 우주를 물었다 | [GitBook](https://independent-research.gitbook.io/i-asked-ai-about-the-universe/) |
 | Art Beyond the Human | 인간 이후의 예술 | [GitBook](https://independent-research.gitbook.io/art-beyond-the-human/) |
 
-| WRRA Neuropsychology v0.3 | WRRA 신경심리학 · 10부 45장 공통 형식 개정 | [GitBook](https://independent-research.gitbook.io/wrra-neuropsychology/) · [Manuscript and source](https://github.com/Wonsik-Choi-janefather/minimal-computing-cosmology-research-history/tree/main/books/wrra-neuropsychology) |
+| WRRA Neuropsychology v0.4 | WRRA 신경심리학 · 10부 45장 본문 근거 개정 | [GitBook](https://independent-research.gitbook.io/wrra-neuropsychology/) · [Manuscript and source](https://github.com/Wonsik-Choi-janefather/minimal-computing-cosmology-research-history/tree/main/books/wrra-neuropsychology) |
 
 ## Zenodo archive and DOI genealogy
 
