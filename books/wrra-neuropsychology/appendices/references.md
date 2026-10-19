@@ -116,6 +116,24 @@ W는 기존 WRRA 저작, R은 외부 참고자료다. 외부 자료는 검증과
 
 [R55](https://doi.org/10.1136/bmj.331.7521.903) Altman, D. G., & Bland, J. M. (2005). Standard deviations and standard errors. BMJ, 331(7521), 903. https://doi.org/10.1136/bmj.331.7521.903 — 통계 해설: 관측값의 변이와 추정량의 불확실성 및 표준편차와 표준오차의 구분.
 
+[R56](https://doi.org/10.1101/lm.78804) Bouton, M. E. (2004). Context and behavioral processes in extinction. Learning & Memory, 11(5), 485–494. https://doi.org/10.1101/lm.78804 — 행동 연구의 선택적 검토. 소거와 맥락에 관한 설명을 지지하며 사람의 모든 기억이 동일한 기제로 유지된다는 증거는 아니다.
+
+[R57](https://doi.org/10.2307/1914185) Kahneman, D., & Tversky, A. (1979). Prospect theory: An analysis of decision under risk. Econometrica, 47(2), 263–291. https://doi.org/10.2307/1914185 — 선택 문제와 이론 구성. 기준점과 가치 및 확률 가중의 구분을 제공하며 WRRA 잔여와의 동일성을 입증하지 않는다.
+
+[R58](https://doi.org/10.1046/j.1525-1497.2001.016009606.x) Kroenke, K., Spitzer, R. L., & Williams, J. B. W. (2001). The PHQ-9: Validity of a brief depression severity measure. Journal of General Internal Medicine, 16(9), 606–613. https://doi.org/10.1046/j.1525-1497.2001.016009606.x — 측정 타당화 원연구. 척도와 면담 및 기능을 비교했으며 점수만으로 개인의 원인 기제를 확정하지 않는다.
+
+[R59](https://doi.org/10.1002/da.22728) Carpenter, J. K., Andrews, L. A., Witcraft, S. M., Powers, M. B., Smits, J. A. J., & Hofmann, S. G. (2018). Cognitive behavioral therapy for anxiety and related disorders: A meta-analysis of randomized placebo-controlled trials. Depression and Anxiety, 35(6), 502–514. https://doi.org/10.1002/da.22728 — 무작위 위약 대조시험 메타분석. 진단·분석집단·중재 방식에 따라 결과가 달라지는 범위를 함께 읽는다.
+
+[R60](https://doi.org/10.1176/appi.ajp.162.1.151) Foa, E. B., et al. (2005). Randomized, placebo-controlled trial of exposure and ritual prevention, clomipramine, and their combination in the treatment of obsessive-compulsive disorder. American Journal of Psychiatry, 162(1), 151–161. https://doi.org/10.1176/appi.ajp.162.1.151 — 성인 강박장애 외래환자 대상 원연구. 특정 절차와 기간의 비교이며 모든 연령·중재 조건에 대한 일반화는 별도다.
+
+[R61](https://doi.org/10.1080/20008198.2020.1729633) Lewis, C., Roberts, N. P., Andrew, M., Starling, E., & Bisson, J. I. (2020). Psychological therapies for post-traumatic stress disorder in adults: Systematic review and meta-analysis. European Journal of Psychotraumatology, 11(1), 1729633. https://doi.org/10.1080/20008198.2020.1729633 — 성인 PTSD 심리치료의 체계적 검토. 치료 종류와 비교군 및 연구의 질을 구분한다.
+
+[R62](https://doi.org/10.1016/S0140-6736(17)32802-7) Cipriani, A., et al. (2018). Comparative efficacy and acceptability of 21 antidepressant drugs for the acute treatment of adults with major depressive disorder: A systematic review and network meta-analysis. The Lancet, 391(10128), 1357–1366. https://doi.org/10.1016/S0140-6736(17)32802-7 — 성인 주요우울장애 급성기 단독 약물치료의 네트워크 메타분석. 장기 경과·양극성장애·개인별 처방으로 범위를 확장하지 않는다.
+
+[R63](https://doi.org/10.1002/14651858.CD008016.pub3) Ceraso, A., et al. (2020). Maintenance treatment with antipsychotic drugs for schizophrenia. Cochrane Database of Systematic Reviews, 8, CD008016. https://doi.org/10.1002/14651858.CD008016.pub3 — 조현병 유지치료의 체계적 검토. 재발과 부작용, 추적 기간 및 결과별 근거 수준을 함께 확인한다.
+
+[R64](https://doi.org/10.1002/wps.21069) Cuijpers, P., Miguel, C., Harrer, M., Plessen, C. Y., Ciharova, M., Ebert, D., & Karyotaki, E. (2023). Cognitive behavior therapy vs. control conditions, other psychotherapies, pharmacotherapies and combined treatment for depression: A comprehensive meta-analysis including 409 trials with 52,702 patients. World Psychiatry, 22(1), 105–115. https://doi.org/10.1002/wps.21069 — 우울에 대한 인지행동치료의 비교 메타분석. 대조군의 종류와 민감도 분석 및 추적 기간을 구별한다.
+
 ## R1 절별 확인 경로
 
 R1 §1.1 — what is psychology — https://openstax.org/books/psychology-2e/pages/1-1-what-is-psychology
@@ -194,8 +212,52 @@ R1 §15.2 — diagnosing and classifying psychological disorders — https://ope
 
 R1 §16.2 — types of treatment — https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
 
-출처 확인일  새로 추가한 R35–R55 및 R1의 절별 자료는 2026년 10월 19일 공개 출판사·학술 데이터베이스·공식 교재에서 서지와 관련 내용을 확인했다. 기관 자료의 연도 미표기는 발행연도를 추정하지 않았다는 뜻이다. 이 목록은 체계적 문헌고찰의 검색 결과가 아니며, 임상 분야의 효과 크기와 치료별 체계적 근거는 후속 보강 대상이다.
+출처 확인일  새로 추가한 R35–R55 및 R1의 절별 자료는 2026년 10월 19일 공개 출판사·학술 데이터베이스·공식 교재에서 서지와 관련 내용을 확인했다. 기관 자료의 연도 미표기는 발행연도를 추정하지 않았다는 뜻이다. 이 목록은 체계적 문헌고찰의 검색 결과가 아니며, 임상 장에서 추가한 효과 근거 R59–R64는 대상과 비교 조건별로 읽으며, 더 넓은 임상 범위의 문헌 검토는 후속 과제다.
 
 ## 주제별 읽기
 
-기초 개념은 R1의 명시한 절, 특정 현상은 본문에 연결한 원연구와 연구 검토를 확인한다. 원논문, 검토 논문, 메타분석과 기관 안내는 서로 다른 종류의 근거다. 임상 장의 기관 자료는 개념과 평가 범위를 안내하며, 특정 치료의 효과 크기나 개인별 적용을 직접 검증한 자료로 제시하지 않는다.
+기초 개념은 R1의 명시한 절, 특정 실험과 현상은 본문에 연결한 원연구와 검토를 확인한다. 임상 평가는 R58, 불안·강박·외상 관련 개입은 R59–R61, 우울과 조현병의 치료 비교는 R62–R64에 연결한다. 기관 안내와 실험, 메타분석은 근거의 종류와 범위가 다르다.
+
+## 본문 주장과 근거의 대응
+
+아래 대응은 이번에 보강한 주요 주장에 대한 찾기 안내다. 본문의 해당 문단에서 연구 대상·방법·결과와 적용 범위를 함께 읽는다. 연구 결과의 소개와 WRRA 응용의 확인은 별도 판정이다.
+
+4장 — R3 — 재현성 연구가 조사한 범위
+
+5장 — R4 — 연결 변화에 관한 동물 실험
+
+6장 — R35 — BOLD를 신경 활동과 비교한 원연구
+
+13장 — R56 — 소거를 완전 삭제와 구분하는 근거
+
+14장 — R9 — 관찰학습의 고전 실험이 보여 준 것
+
+15장 — R10 — 손상 사례에서 기능을 추론하는 범위
+
+16장 — R41 — 출처 판단에 관한 검토의 범위
+
+18장 — R57 — 선택 관찰에서 이론으로 이어지는 근거
+
+20장 — R44 — 같은 점수를 비교하기 위한 측정 조건
+
+22장 — R53 — 얼굴 움직임에서 감정을 추론하는 근거
+
+23장 — R43 — 자원 모형에 대한 재현 검사의 결과
+
+34장 — R58 — 척도 점수와 임상 면담을 비교한 원연구
+
+35장 — R59, R60, R61 — 불안 관련 치료의 위약 대조 근거 / 강박장애에서 절차를 구분해 비교한 원연구 / 외상 후 현상에 대한 체계적 검토
+
+36장 — R62 — 우울증 급성기 약물치료의 비교 근거
+
+37장 — R63 — 조현병 유지치료에서 결과별로 읽는 근거
+
+38장 — R64 — 치료 효과는 비교군을 명시해야 한다
+
+39장 — R32 — 즉시 수행과 지연 기억을 구분한 실험
+
+## 문헌 확인과 사용 범위
+
+R56–R64는 2026년 10월 19일 출판사 또는 학술 데이터베이스의 서지와 초록·본문에서 해당 내용을 확인했다. 위 문헌은 본문의 특정 주장을 보강하기 위해 선택했으며, 이 책 전체가 체계적 문헌고찰이라는 뜻은 아니다. 임상 연구는 해당 출판 시점의 연구 결과로 소개하고, 적용 대상과 비교군 및 추적 기간을 명시한다.
+
+기관의 개론 안내는 질환과 치료의 범위를 이해하는 데 사용하고, 특정 효과를 설명하는 문장은 원연구나 체계적 검토에 연결한다. 약물·심리치료의 효과를 소개한 문단은 개인별 치료 선택이나 WRRA 모형의 임상 검증을 대신하지 않는다. 미실시된 기제 연결은 후속 연구로 표시한다.

@@ -77,7 +77,7 @@ This page is the canonical cross-domain index for works published under the name
 | I Asked AI About the Universe | 나는 AI에게 우주를 물었다 | [GitBook](https://independent-research.gitbook.io/i-asked-ai-about-the-universe/) |
 | Art Beyond the Human | 인간 이후의 예술 | [GitBook](https://independent-research.gitbook.io/art-beyond-the-human/) |
 
-| WRRA Neuropsychology v0.4 | WRRA 신경심리학 · 10부 45장 본문 근거 개정 | [GitBook](https://independent-research.gitbook.io/wrra-neuropsychology/) · [Manuscript and source](https://github.com/Wonsik-Choi-janefather/minimal-computing-cosmology-research-history/tree/main/books/wrra-neuropsychology) |
+| WRRA Neuropsychology v0.6 | WRRA 신경심리학 · 이종 학문 통합 탐구와 본문 연구 근거 보강 | [GitBook](https://independent-research.gitbook.io/wrra-neuropsychology/) · [Manuscript and source](https://github.com/Wonsik-Choi-janefather/minimal-computing-cosmology-research-history/tree/main/books/wrra-neuropsychology) |
 
 ## Zenodo archive and DOI genealogy
 
