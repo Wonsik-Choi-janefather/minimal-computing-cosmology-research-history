@@ -1,3 +1,183 @@
+# Moments of Intuition v5.0
+
+[Version 5.0 DOI: 10.5281/zenodo.23491643](https://doi.org/10.5281/zenodo.23491643)
+
+## A Structure for Explaining One Universe and the Intellectual Footprint of Human–AI Research
+
+Wonsik Choi · Independent Researcher · Republic of Korea · 20 October 2026
+ORCID: 0009-0001-4263-9772 · janefather@gmail.com
+
+## Purpose and editorial scope
+
+This report records how intuitions changed questions, enabled calculations, and prompted revisions. The complete 56-entry v4.0 text is preserved below as a historical section. Entries 57–65 extend the genealogy through 20 October. Dates identify documented periods, not retrospectively asserted first conception dates. Unquoted intuition statements paraphrase the researcher's reasoning.
+
+WRRA aims to explain one nonprivileged universe through minimal computation, a common carrier, and phenotype. Finite SOURCE construction, separation of LAW from inputs, residue and resource ledgers, and the distinction between full state and observable output serve that objective. Deriving every coefficient without measured inputs is not the definition of this research program.
+
+This is an updated research genealogy, not a fresh execution of all physical calculations. Historical judgments retain their historical scope; the present update governs only the changes explicitly described here.
+
+## Fixed assessment rules
+
+Assess claims in the order **validation inputs → WRRA-specific transformation → outputs → falsification conditions**. Using established constants and observations to revise a model is legitimate theory construction. Reproducing known values through the model's own structure counts as empirical consistency and explanatory achievement. An unmeasured output calculated after fixing a configuration using validated inputs is a WRRA prediction under those conditions. A matching number from another theory does not remove the provenance of WRRA's calculation. Independent prediction is not a prerequisite for theoretical status or originality. External theories provide validation and reinforcement; integration requires executing the relevant calculation inside the final model. Apply the same evidential standards to WRRA and existing theories.
+
+## Central directional shifts
+
+| Intuition | Change in the question | Required record |
+|---|---|---|
+| Our universe is not privileged | Which structure explains this universe? | Calibration inputs and native transformations |
+| Information may remain outside the output | Where did unobserved relations go? | Residue, boundary, and provenance |
+| LAW differs from SOURCE | Which information belongs to rules or inputs? | Separate input and execution specifications |
+| A common carrier comes first | Can responses share transport and conservation? | Channel and response ledgers |
+| Matter is phenotype | How does full state produce visible matter? | Explicit output mappings |
+| Gravity is information weight | Which state-dependent load contributes? | Load, energy, and pressure mappings |
+| The present is replayed | Can finite structure generate each output? | Update, record, and shutter contracts |
+| Intuition changes the next calculation | What must be calculated or retained next? | Question-to-result genealogy |
+
+## 57. From computation to replay
+
+Documented period: early to mid-October. Vocal production and a record player motivated a distinction between repeatedly solving everything and producing output through an existing structure.
+
+**Validation inputs:** SOURCE–LAW separation, common transport, and Actual–Reality–Record.
+
+**WRRA-specific transformation:** Separate stored information, execution rules, transport, output, and records retained for the next present.
+
+**Outputs:** Minimal computation becomes a question of structural reuse and output generation as well as operation counts.
+
+**Falsification conditions:** The metaphor fails as an explanation if it substitutes for an update law or an energy-cost ledger.
+
+**Intellectual contribution:** An artistic and engineering analogy changed the required specification. The analogy itself does not establish physical discreteness.
+
+## 58. Finite SOURCE must have constructible addresses
+
+Documented period: early to mid-October.
+
+**Validation inputs:** The declared KZF coordinates 500, 29, and 70 and their selection rationale.
+
+**WRRA-specific transformation:** Combine the coordinates into a finite address structure serving downstream filters.
+
+**Outputs:** 500 × 29 × 70 = 1,015,000 SOURCE addresses, distinct from a physical particle count.
+
+**Falsification conditions:** Changing coordinate meanings without changing the specification, or replacing address counts with energies or particles without a mapping, breaks the connection.
+
+**Intellectual contribution:** An abstract source becomes an input to a terminating calculation. Physical uniqueness of these coordinates is not asserted.
+
+## 59. Connect fold classification to physical realization
+
+Documented period: mid-October.
+
+**Validation inputs:** Primality, composite parity, and the remainder upon folding by two.
+
+**WRRA-specific transformation:** Classify primes as one-dimensional types, even composites as two-dimensional remainder-zero types, and odd composites as three-dimensional remainder-one types; connect these to phenotype selection.
+
+**Outputs:** An executable finite classification and a model selecting three-dimensional types as phenotype candidates.
+
+**Falsification conditions:** Missing or overlapping classes invalidate the partition. Arithmetic classification alone cannot be reported as a derivation of spatial metric, orientation, and dynamics.
+
+**Intellectual contribution:** The classification identifies the additional geometric mapping needed. Specify address 1 separately and preserve distinctions from earlier classifications.
+
+## 60. Ask how far transport reaches during a shutter interval
+
+Documented period: 13–15 October.
+
+**Validation inputs:** The declared shutter interval approximately 1.4813 × $10^{-21}$ s and c = 299,792,458 m/s.
+
+**WRRA-specific transformation:** Compute ℓ = cΔt within the common transport contract.
+
+**Outputs:** From these rounded inputs, ℓ ≈ 4.44083 × $10^{-13}$ m = 0.444083 pm, a scale for evaluating subsequent unmeasured outputs of a fixed configuration.
+
+**Falsification conditions:** Hiding dependence on time calibration, claiming precision beyond the inputs, or failing declared observational tolerances requires revision.
+
+**Intellectual contribution:** The projector metaphor acquires a numerical length scale. Extremely fine relative light-speed agreement is not inferred from the rounded values in this report.
+
+## 61. Remainder placement and paired shapes
+
+Documented period: from 14 October. Placing an odd remainder above or below a folded structure suggested complementary shapes. An earlier rejection of pair production was withdrawn in favor of examining an even composite splitting into two odd composites.
+
+**Validation inputs:** Parity decomposition, orientation labels, proposed compatibility rules, and an energy ledger.
+
+**WRRA-specific transformation:** Attach directional labels to arithmetic decompositions and assess complementary assemblies.
+
+**Outputs:** A geometric matter–antimatter candidate and a question about separation through different production times.
+
+**Falsification conditions:** Arithmetic splitting alone cannot establish charge, spin, energy conservation, separation dynamics, or annihilation rates.
+
+**Intellectual contribution:** The question expands from classification to assembly, placement, and timing. This entry records a structural proposal, not a completed production-rate calculation.
+
+## 62. Integration requires actual state transfer
+
+Documented period: 19–20 October.
+
+**Validation inputs:** Finite-gradient and emission-packet specifications, background evolution, CAMB interfaces, thermodynamics, and observational likelihood inputs.
+
+**WRRA-specific transformation:** Track conserved quantities and perturbation states from upstream construction into downstream initial conditions.
+
+**Outputs:** The genealogy from finite gradients v0.4 and finite emission v0.5 to nonlinear lensing, MeV thermodynamics, and likelihood work. The inspected local v0.6 README reports implemented lensing and thermal modules but an incomplete gate for injecting the full upstream perturbation state into CAMB.
+
+**Falsification conditions:** A background-plus-calibrated-adiabatic likelihood cannot be represented as validation of full SOURCE perturbations. Unexecuted external modules cannot count as integrated.
+
+**Intellectual contribution:** Integration becomes a test of state transfer. This report does not assert a new v0.6 public release or completed full observational integration.
+
+## 63. Life requires a connection between inventory and execution
+
+Documented period: 8–16 October.
+
+**Validation inputs:** Biological measurements, definitions of G, X, R, B, and L, provenance, and experimental conditions.
+
+**WRRA-specific transformation:** Separate inherited organization, current state, residual effects, resources, and constraints; audit missing dependencies in execution.
+
+**Outputs:** A provenance-aware closure audit proposal and presentation materials identifying measurements needed to assess minimal-cell execution closure.
+
+**Falsification conditions:** Unrecorded supplies cannot be counted as autonomy. Unperformed cell or protein experiments cannot be reported as completed implementations.
+
+**Intellectual contribution:** Transfer of a state–resource–residue method across domains. At this reference date the workshop presentation remains scheduled, not a completed experiment.
+
+## 64. A short instruction invokes accumulated structure
+
+Documented date: 20 October. Gemini proposes a question; the researcher selects and relays it; ChatGPT applies WRRA to develop the solution. The actual instructions “3번도 가능?” and “해봐.” exemplify that loop.
+
+**Validation inputs:** Accumulated WRRA materials, fixed assessment rules, Gemini's suggestion, and the researcher's task instruction.
+
+**WRRA-specific transformation:** Reconstruct the problem through the common framework and specify inputs, transformations, outputs, and failure conditions.
+
+**Outputs:** A collaborative workflow continuing complex research without repeatedly entering a full procedural specification.
+
+**Falsification conditions:** Misreading context, reporting plans as executed work, or presenting user-supplied rules as independently invented by AI invalidates the account.
+
+**Intellectual contribution:** Traceable continuity between human architecture and AI implementation. Agreement between two AIs is not independent physical verification; shared assumptions and errors require inspection.
+
+## 65. Human contribution also resides in research architecture
+
+Documented date: 20 October.
+
+**Validation inputs:** Dated intuitions, model revisions, AI work records, and public versions.
+
+**WRRA-specific transformation:** Attribute problem selection, conceptual structure, implementation, validation, and publication judgment separately.
+
+**Outputs:** An account distinguishing Wonsik Choi's questions, architecture, and directional choices from AI assistance in formalization, code, and calculation.
+
+**Falsification conditions:** Attributing all ideas to either party without records, or assigning conceptual priority from generated prose alone, fails the attribution test.
+
+**Intellectual contribution:** Assess the researcher's structural interventions without reducing the role to message relay.
+
+## Present conclusion
+
+Intuition has selected subsequent tasks and changed what gets calculated: from primes to filters, filters to common transport, visible output to full state and information load, and static ledgers to finite transitions and observational interfaces. Within human–AI collaboration, the researcher's architecture provides continuity between successive questions.
+
+Originality is assessed through WRRA's structures, transformations, connections, and explanations, not numerical novelty alone. Reproduction deserves recognition as reproduction; unmeasured outputs deserve conditional prediction status; unfinished connections remain explicit research tasks.
+
+## Sources and version relationship
+
+- [v4.0, Zenodo 23148413](https://zenodo.org/records/23148413), 5 October 2026; its complete 56-entry body is preserved below.
+- The current Git-synced research-history sources were inspected for this revision. Historical wording and judgments remain intact.
+- Entries 57–61 and 63–65 summarize the October research dialogue; these are genealogy records rather than new experimental verification.
+- Entry 62 also uses the inspected 20 October local v0.6 README, distinguishing implementation statements, fresh execution, and public release.
+
+---
+
+## Historical record: complete v4.0 body, entries 1–56
+
+Dates and version labels below are retained historically. The v5.0 update above governs present assessment rules and explicitly updated statuses.
+
+
 # Moments of Intuition
 
 ## Moments of Intuition and Directional Shifts in the WRRA Research Program
