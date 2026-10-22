@@ -48,6 +48,14 @@ Ledger ownership supports these distinctions as a research principle; it is not 
 
 WRRA specifies existing traces, new inputs, and maintenance and output rules. Claims about a particular updating mechanism require experiments distinguishing change timing and conditions.
 
+#### 4.4 Separating content provenance and change history
+
+Drawing on source-monitoring research, distinguish the original experience, later information, recalled content, and the source attributed by the person recalling it. Score content errors and source confusions separately; preserve change history in a presently accessible RECORD maintained by the researcher. Event identifiers, versions, modification times, and ownership are computational design choices, not claims that the brain stores those literal IDs or ledgers. A source-preserving model must still be revised if it cannot reconstruct condition-specific confusion distributions within tolerance. [R41; W1, §§2.1–2.2]
+
+#### 4.4 Separating content provenance and change history
+
+Drawing on source-monitoring research, distinguish the original experience, later information, recalled content, and the source attributed by the person recalling it. Score content errors and source confusions separately; preserve change history in a presently accessible RECORD maintained by the researcher. Event identifiers, versions, modification times, and ownership are computational design choices, not claims that the brain stores those literal IDs or ledgers. A source-preserving model must still be revised if it cannot reconstruct condition-specific confusion distributions within tolerance. [R41; W1, §§2.1–2.2]
+
 ### 5 Outputs and execution record
 
 The current output is an explanatory specification of phenomena, variables, and validation paths. Planned outputs: distributions of accurate recall, errors, and confidence.

@@ -52,6 +52,14 @@ Maintenance criteria may include task functions and relational conditions alongs
 
 Resource variables require independent indicators and effects distinguishing alternative explanations.
 
+#### 4.5 Comparing accuracy and costs within the same task
+
+Shenhav et al.’s (2013) expected-value-of-control theory provides a comparison framework involving payoff, control investment, and cognitive-effort cost. This does not make effort and physical energy the same quantity. WRRA fixes task function and tolerances while recording time, operation count, and memory separately. Physical energy requires its own measurement and units; subjective fatigue is a reported scale. Combining different units requires explicit normalization and weights. A cheaper model that loses required function does not satisfy Core minimum computation. [[R69](https://doi.org/10.1016/j.neuron.2013.07.007); W1, §1.1]
+
+#### 4.5 Comparing accuracy and costs within the same task
+
+Shenhav et al.’s (2013) expected-value-of-control theory provides a comparison framework involving payoff, control investment, and cognitive-effort cost. This does not make effort and physical energy the same quantity. WRRA fixes task function and tolerances while recording time, operation count, and memory separately. Physical energy requires its own measurement and units; subjective fatigue is a reported scale. Combining different units requires explicit normalization and weights. A cheaper model that loses required function does not satisfy Core minimum computation. [[R69](https://doi.org/10.1016/j.neuron.2013.07.007); W1, §1.1]
+
 ### 5 Outputs and execution record
 
 The current output is an explanatory specification of phenomena, variables, and validation paths. Planned outputs: experiential, behavioral, and functional changes.

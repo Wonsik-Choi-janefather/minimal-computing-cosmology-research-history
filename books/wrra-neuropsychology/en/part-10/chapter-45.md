@@ -97,3 +97,9 @@ The next step fixes definitions of input, residue, current resources, and output
 Readers should be able to trace inputs, executed transformations, outputs, and revision conditions. Consistency with known phenomena, structural explanation, fixed-model prediction, and actual control are recorded separately. Through such records, WRRA neuropsychology can develop from a glossary into a reproducible research program.
 
 Chapter references: W1, W2.
+
+#### 8.3 Three connections to test first
+
+First, test whether specified UPDATE and RENDERER rules reconstruct condition-specific judgment and action distributions from identical sensory stimuli and distinct present states. Second, test the timing among state, action, and subsequent input when actions alter sensory conditions. Third, assess state-estimation performance and explanations of intervention effects under separate contracts. Costs and provenance are common recording requirements across these tests.
+
+Appendix C4 credits the suggestions. Sources: R65–R70 and R41. These designs remain OPEN.

@@ -58,6 +58,12 @@ An execution ledger records input sources, rule versions, how coefficients were 
 
 In this application, present state means neural, bodily, and cognitive conditions involved in the current response. Residue is the influence of earlier events that remains active in the present. They are not physically isolated boxes. When the complete present state is recorded, residue may be a component, so definitions must prevent double counting. Records and their access paths must also exist in the present if they are to be read.
 
+#### 4.8 Specifying an application against Core 1.0
+
+The reference is WRRA Core 1.0, frozen on 7 September 2026. Its three invariants—minimum computation, the common carrier, and phenotype—and eleven required execution elements are retained. Minimum computation is Pareto-minimal cost subject to a declared function and error tolerance, rather than unconditional reduction of processing. [W1, §§0–3]
+
+This revision specifies a neuropsychology Domain Profile without changing the Core. It prioritizes state-dependent interpretation, the perception–action loop, and the distinction between state estimation and control. History enters through presently instantiated state, residue, or accessible records, with ownership and duplication specified. A common carrier requires an explicit account of which channels share what; a proposed neural implementation requires separate testing. Appendix C2 provides the mapping, and C4 records the origins of suggestions.
+
 ### 5 Outputs and execution record
 
 The current output is an explanatory specification of phenomena, variables, and validation paths. Planned output: a variable-definition document for neuropsychological applications.

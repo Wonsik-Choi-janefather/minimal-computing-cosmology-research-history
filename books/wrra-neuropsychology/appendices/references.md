@@ -1,6 +1,6 @@
 # 부록 E 참고문헌과 주제별 읽기
 
-문헌 수록 기준일: 2026년 10월 19일. 개별 출처의 확인일은 실제 확인 기록을 유지한다. 따라서 10월 18일 확인 자료도 이 기준일까지 수록한 문헌에 포함된다. 수록 기준일과 개별 확인일은 서로 다른 날짜 정보다.
+문헌 수록 기준일: 2026년 10월 22일. 개별 출처의 확인일은 실제 확인 기록을 유지한다. 따라서 10월 18일 확인 자료도 이 기준일까지 수록한 문헌에 포함된다. 수록 기준일과 개별 확인일은 서로 다른 날짜 정보다.
 
 W는 기존 WRRA 저작, R은 외부 참고자료다. 외부 자료는 검증과 보강 및 분야의 정의에 사용한다. 해당 자료의 소개만으로 그 이론이나 기제가 WRRA 내부에서 계산되었다고 표시하지 않는다. 아래 목록은 원고의 주요 출처이며 분야별 망라 문헌목록은 아니다.
 
@@ -135,6 +135,22 @@ W는 기존 WRRA 저작, R은 외부 참고자료다. 외부 자료는 검증과
 [R63](https://doi.org/10.1002/14651858.CD008016.pub3) Ceraso, A., et al. (2020). Maintenance treatment with antipsychotic drugs for schizophrenia. Cochrane Database of Systematic Reviews, 8, CD008016. https://doi.org/10.1002/14651858.CD008016.pub3 — 조현병 유지치료의 체계적 검토. 재발과 부작용, 추적 기간 및 결과별 근거 수준을 함께 확인한다.
 
 [R64](https://doi.org/10.1002/wps.21069) Cuijpers, P., Miguel, C., Harrer, M., Plessen, C. Y., Ciharova, M., Ebert, D., & Karyotaki, E. (2023). Cognitive behavior therapy vs. control conditions, other psychotherapies, pharmacotherapies and combined treatment for depression: A comprehensive meta-analysis including 409 trials with 52,702 patients. World Psychiatry, 22(1), 105–115. https://doi.org/10.1002/wps.21069 — 우울에 대한 인지행동치료의 비교 메타분석. 대조군의 종류와 민감도 분석 및 추적 기간을 구별한다.
+
+
+[R65](https://doi.org/10.1016/j.neuron.2012.04.034) — Kok, P., Jehee, J. F. M., & de Lange, F. P. (2012). Less Is More: Expectation Sharpens Representations in the Primary Visual Cortex. Neuron, 75(2), 265–270. https://doi.org/10.1016/j.neuron.2012.04.034
+
+[R66](https://doi.org/10.1038/4580) — Rao, R. P. N., & Ballard, D. H. (1999). Predictive coding in the visual cortex: a functional interpretation of some extra-classical receptive-field effects. Nature Neuroscience, 2, 79–87. https://doi.org/10.1038/4580
+
+[R67](https://doi.org/10.1162/NECO_a_00912) — Friston, K., FitzGerald, T., Rigoli, F., Schwartenbeck, P., & Pezzulo, G. (2017). Active Inference: A Process Theory. Neural Computation, 29(1), 1–49. https://doi.org/10.1162/NECO_a_00912
+
+[R68](https://doi.org/10.1038/s41586-019-1869-9) — Sauerbrei, B. A., Guo, J.-Z., Cohen, J. D., Mischiati, M., Guo, W., Kabra, M., Verma, N., Mensh, B., Branson, K., & Hantman, A. W. (2020). Cortical pattern generation during dexterous movement is input-driven. Nature, 577, 386–391. https://doi.org/10.1038/s41586-019-1869-9
+
+[R69](https://doi.org/10.1016/j.neuron.2013.07.007) — Shenhav, A., Botvinick, M. M., & Cohen, J. D. (2013). The expected value of control: An integrative theory of anterior cingulate cortex function. Neuron, 79(2), 217–240. https://doi.org/10.1016/j.neuron.2013.07.007
+
+[R70](https://doi.org/10.1038/35036035) — Berridge, M. J., Lipp, P., & Bootman, M. D. (2000). The versatility and universality of calcium signalling. Nature Reviews Molecular Cell Biology, 1, 11–21. https://doi.org/10.1038/35036035
+
+[R65](https://doi.org/10.1016/j.neuron.2012.04.034)–R70은 2026년 10월 22일 출판사·저자 저장소 또는 원논문의 서지와 초록·본문에서 확인했다. [R65](https://doi.org/10.1016/j.neuron.2012.04.034)·R68은 원연구, [R66](https://doi.org/10.1038/4580)·R67은 계산 이론, R69는 이론적 통합, R70은 칼슘 신호 검토다. 비공식 제안 I1–I4는 부록 C4에서 학술 문헌과 구분한다.
+
 
 ## R1 절별 확인 경로
 

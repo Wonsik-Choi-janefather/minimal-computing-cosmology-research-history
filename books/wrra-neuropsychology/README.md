@@ -2,7 +2,7 @@
 
 **WRRA의 이종 학문 통합 가능성 탐구**
 
-최원식 · 원논문 연결과 국영문판 v0.8 · 2026년 10월 19일
+최원식 · 원논문 연결과 국영문판 v0.9 · 2026년 10월 22일
 
 이 책은 WRRA가 서로 다른 학문을 연결하는 데 어떤 설명적·계산적 기여를 할 수 있는지 살펴본다. 심리학과 신경과학을 첫 사례로 삼아 경험과 행동, 신경과 신체의 설명을 공통 구조로 연결한다.
 
@@ -10,4 +10,6 @@
 
 [English edition](https://independent-research.gitbook.io/wrra-neuropsychology/en) · [WRRA Core 1.0 원논문](https://doi.org/10.5281/zenodo.22650956)
 
-[전체 목차](SUMMARY.md) · [국문 Word](manuscript/WRRA_Neuropsychology_v0.8_KO.docx) · [영문 Word](manuscript/WRRA_Neuropsychology_v0.8_EN.docx) · [영문 원문](en/README.md) · [계산 재현 코드](code/reproduce_models.py)
+[전체 목차](SUMMARY.md) · [국문 Word](manuscript/WRRA_Neuropsychology_v0.9_KO.docx) · [영문 Word](manuscript/WRRA_Neuropsychology_v0.9_EN.docx) · [영문 원문](en/README.md) · [계산 재현 코드](code/reproduce_models.py)
+
+[v0.9 Zenodo DOI](https://doi.org/10.5281/zenodo.23550606)

@@ -1,3 +1,7 @@
+# v0.9 2026-10-22
+
+Core 1.0 application specifications for state-dependent interpretation, perception-action loops, state estimation versus control, task costs, and memory provenance. Added R65-R70 and an explicitly indirect informal-suggestion record I1-I4. Core definitions and existing calculations are unchanged. Published on GitBook and Zenodo (10.5281/zenodo.23550606); the GitHub sources and bilingual manuscripts are released with this update.
+
 # 변경 기록
 
 ## v0.8 · 2026-10-19

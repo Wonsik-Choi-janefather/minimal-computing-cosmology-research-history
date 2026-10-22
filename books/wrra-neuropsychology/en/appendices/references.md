@@ -1,6 +1,6 @@
 # Appendix E References and Thematic Reading
 
-Literature inclusion cutoff: 19 October 2026. Individual checking dates retain the actual checking records. Sources checked on 18 October are included by this cutoff. Inclusion cutoff and source-checking dates are different information.
+Literature inclusion cutoff: 22 October 2026. Individual checking dates retain the actual checking records. Sources checked on 18 October are included by this cutoff. Inclusion cutoff and source-checking dates are different information.
 
 W identifies earlier WRRA works; R identifies external references. External sources support validation, reinforcement, and disciplinary definitions. Introducing a theory or mechanism does not establish that it was computed within WRRA. This is a list of principal sources, not an exhaustive disciplinary bibliography.
 
@@ -135,6 +135,38 @@ W identifies earlier WRRA works; R identifies external references. External sour
 [R63](https://doi.org/10.1002/14651858.CD008016.pub3) Ceraso, A., et al. (2020). Maintenance treatment with antipsychotic drugs for schizophrenia. Cochrane Database of Systematic Reviews, 8, CD008016. https://doi.org/10.1002/14651858.CD008016.pub3 — Systematic review of schizophrenia maintenance treatment, considering relapse, adverse effects, follow-up, and outcome-specific evidence quality.
 
 [R64](https://doi.org/10.1002/wps.21069) Cuijpers, P., Miguel, C., Harrer, M., Plessen, C. Y., Ciharova, M., Ebert, D., & Karyotaki, E. (2023). Cognitive behavior therapy vs. control conditions, other psychotherapies, pharmacotherapies and combined treatment for depression: A comprehensive meta-analysis including 409 trials with 52,702 patients. World Psychiatry, 22(1), 105–115. https://doi.org/10.1002/wps.21069 — Comparative meta-analysis of CBT for depression, distinguishing controls, sensitivity analyses, and follow-up.
+
+
+[R65](https://doi.org/10.1016/j.neuron.2012.04.034) — Kok, P., Jehee, J. F. M., & de Lange, F. P. (2012). Less Is More: Expectation Sharpens Representations in the Primary Visual Cortex. Neuron, 75(2), 265–270. https://doi.org/10.1016/j.neuron.2012.04.034
+
+[R66](https://doi.org/10.1038/4580) — Rao, R. P. N., & Ballard, D. H. (1999). Predictive coding in the visual cortex: a functional interpretation of some extra-classical receptive-field effects. Nature Neuroscience, 2, 79–87. https://doi.org/10.1038/4580
+
+[R67](https://doi.org/10.1162/NECO_a_00912) — Friston, K., FitzGerald, T., Rigoli, F., Schwartenbeck, P., & Pezzulo, G. (2017). Active Inference: A Process Theory. Neural Computation, 29(1), 1–49. https://doi.org/10.1162/NECO_a_00912
+
+[R68](https://doi.org/10.1038/s41586-019-1869-9) — Sauerbrei, B. A., Guo, J.-Z., Cohen, J. D., Mischiati, M., Guo, W., Kabra, M., Verma, N., Mensh, B., Branson, K., & Hantman, A. W. (2020). Cortical pattern generation during dexterous movement is input-driven. Nature, 577, 386–391. https://doi.org/10.1038/s41586-019-1869-9
+
+[R69](https://doi.org/10.1016/j.neuron.2013.07.007) — Shenhav, A., Botvinick, M. M., & Cohen, J. D. (2013). The expected value of control: An integrative theory of anterior cingulate cortex function. Neuron, 79(2), 217–240. https://doi.org/10.1016/j.neuron.2013.07.007
+
+[R70](https://doi.org/10.1038/35036035) — Berridge, M. J., Lipp, P., & Bootman, M. D. (2000). The versatility and universality of calcium signalling. Nature Reviews Molecular Cell Biology, 1, 11–21. https://doi.org/10.1038/35036035
+
+[R65](https://doi.org/10.1016/j.neuron.2012.04.034)–[R70](https://doi.org/10.1038/35036035) were checked on 22 October 2026 using publisher records, author repositories, or original-paper metadata, abstracts, and text. [R65](https://doi.org/10.1016/j.neuron.2012.04.034) and [R68](https://doi.org/10.1038/s41586-019-1869-9) are original empirical studies; [R66](https://doi.org/10.1038/4580) and [R67](https://doi.org/10.1162/NECO_a_00912) are computational theories; [R69](https://doi.org/10.1016/j.neuron.2013.07.007) is a theoretical integration; [R70](https://doi.org/10.1038/35036035) reviews calcium signaling. Informal suggestions I1–I4 are distinguished from academic sources in Appendix C4.
+
+
+
+[R65](https://doi.org/10.1016/j.neuron.2012.04.034) — Kok, P., Jehee, J. F. M., & de Lange, F. P. (2012). Less Is More: Expectation Sharpens Representations in the Primary Visual Cortex. Neuron, 75(2), 265–270. https://doi.org/10.1016/j.neuron.2012.04.034
+
+[R66](https://doi.org/10.1038/4580) — Rao, R. P. N., & Ballard, D. H. (1999). Predictive coding in the visual cortex: a functional interpretation of some extra-classical receptive-field effects. Nature Neuroscience, 2, 79–87. https://doi.org/10.1038/4580
+
+[R67](https://doi.org/10.1162/NECO_a_00912) — Friston, K., FitzGerald, T., Rigoli, F., Schwartenbeck, P., & Pezzulo, G. (2017). Active Inference: A Process Theory. Neural Computation, 29(1), 1–49. https://doi.org/10.1162/NECO_a_00912
+
+[R68](https://doi.org/10.1038/s41586-019-1869-9) — Sauerbrei, B. A., Guo, J.-Z., Cohen, J. D., Mischiati, M., Guo, W., Kabra, M., Verma, N., Mensh, B., Branson, K., & Hantman, A. W. (2020). Cortical pattern generation during dexterous movement is input-driven. Nature, 577, 386–391. https://doi.org/10.1038/s41586-019-1869-9
+
+[R69](https://doi.org/10.1016/j.neuron.2013.07.007) — Shenhav, A., Botvinick, M. M., & Cohen, J. D. (2013). The expected value of control: An integrative theory of anterior cingulate cortex function. Neuron, 79(2), 217–240. https://doi.org/10.1016/j.neuron.2013.07.007
+
+[R70](https://doi.org/10.1038/35036035) — Berridge, M. J., Lipp, P., & Bootman, M. D. (2000). The versatility and universality of calcium signalling. Nature Reviews Molecular Cell Biology, 1, 11–21. https://doi.org/10.1038/35036035
+
+[R65](https://doi.org/10.1016/j.neuron.2012.04.034)–[R70](https://doi.org/10.1038/35036035) were checked on 22 October 2026 using publisher records, author repositories, or original-paper metadata, abstracts, and text. [R65](https://doi.org/10.1016/j.neuron.2012.04.034) and [R68](https://doi.org/10.1038/s41586-019-1869-9) are original empirical studies; [R66](https://doi.org/10.1038/4580) and [R67](https://doi.org/10.1162/NECO_a_00912) are computational theories; [R69](https://doi.org/10.1016/j.neuron.2013.07.007) is a theoretical integration; [R70](https://doi.org/10.1038/35036035) reviews calcium signaling. Informal suggestions I1–I4 are distinguished from academic sources in Appendix C4.
+
 
 ## R1 section-specific verification paths
 

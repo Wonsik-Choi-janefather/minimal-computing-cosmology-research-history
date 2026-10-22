@@ -16,6 +16,12 @@ Perception research examines figure–ground separation and grouping by proximit
 
 Several cues are available for judging distance and motion. Restricting inputs helps identify what can be judged from the remaining cues. Choices when cues conflict help investigate combination rules. (Spielman et al., 2020, §5.3 [R1](https://openstax.org/books/psychology-2e/pages/5-3-vision))
 
+#### 2.3 Research on expectation and perception and comparison theories
+
+Kok, Jehee, and de Lange (2012) reported expectation-related differences in primary visual cortex representations using fMRI in a human visual task. This task-specific result motivates considering expectation; it does not establish identical effects for all memory, attention, or bodily states. [[R65](https://doi.org/10.1016/j.neuron.2012.04.034)]
+
+Rao and Ballard’s (1999) predictive-coding model addresses higher-level predictions and ascending errors. Friston et al. (2017) connect perception and action through generative models and active inference. Comparison with WRRA requires explicit alignment of variables, timescales, objectives, and observation rules. Prediction error is not automatically WRRA’s historical RESIDUE; variational free energy is not automatically physical energy or the Core’s minimum cost. These are comparison theories, not a completed computational integration. [[R66](https://doi.org/10.1038/4580), [R67](https://doi.org/10.1162/NECO_a_00912); suggestion provenance I1, I2]
+
 ### 3 Validation inputs
 
 The concepts and observational evidence from existing research are identified in this chapter's references and Appendix E. Planned inputs for the WRRA application: identical or controlled stimuli, contexts, and judgments. Measurements and experiments without a separate execution record are research plans, not actual data collected for this manuscript.
@@ -38,6 +44,12 @@ WRRA specifies input arrangements and relationships. Collecting features does no
 
 Transformations distinguish cue availability from weighting and record how weights are determined so they cannot be freely changed to match each result.
 
+#### 4.4 State-dependent expression and the action loop
+
+Testing holds the physical stimulus constant while varying conditions such as expectation or attention. Instructions and cues are additional SOURCE inputs: an identical sensory stimulus does not imply identical total information. The specification defines present state and residue, fixes the RENDERER and boundary, and produces condition-specific distributions of judgment, choice, and response time. A changed-renderer hypothesis is a separate comparison model. This transformation specification is the author’s WRRA application design. [W1, §1.3, §2.1; [R65](https://doi.org/10.1016/j.neuron.2012.04.034)]
+
+Actions change the conditions of subsequent input. UPDATE maps current SOURCE and state to the next state; the RENDERER generates an action phenotype; environmental and sensory pathways return the next SOURCE. OBSERVABLE consists of measured stimuli, actions, and neural signals; RECORD preserves their timing and provenance. The shared transmission/update scaffold and channel ownership require explicit specification. This is a task-level application of Core grammar, not a claim to have implemented active inference’s mathematics. [W1, §§0–3; [R67](https://doi.org/10.1162/NECO_a_00912); I1, I2]
+
 ### 5 Outputs and execution record
 
 The current output is an explanatory specification of phenomena, variables, and validation paths. Planned outputs: perceptual judgments, accuracy, and confidence.
@@ -51,6 +63,10 @@ An experiment might provide different prior information for the same ambiguous s
 #### 6.1 Learning rules from illusions
 
 Rather than dismissing illusions as exceptions unrelated to normal perception, they can test which relationships and cues change outcomes. Size or contrast arrangements are varied systematically and judgments measured. WRRA evaluates whether one rule computes several arrangements. If every arrangement needs a separate rule, the scope of a common explanation narrows.
+
+#### 6.2 Prespecified failure conditions
+
+A state-dependence test first specifies the conditions, effect sizes to explain, and tolerances. Absence of an effect cannot refute a rule that permits no effect; distinguishable predictions must therefore be specified first. Loop tests assess delays and errors between input timing, updating, action, and subsequent input. Failure to meet the declared reconstruction thresholds calls for revision of the relevant application rule. These additions are INFERRED designs; empirical adequacy remains OPEN.
 
 ### 7 Current verdict
 

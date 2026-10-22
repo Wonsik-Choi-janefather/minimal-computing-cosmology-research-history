@@ -1,9 +1,9 @@
 {
-  "title": "WRRA Neuropsychology: Exploring WRRA's Potential for Integration Across Disciplines — Korean and English Edition v0.8",
+  "title": "WRRA Neuropsychology: Exploring WRRA's Potential for Integration Across Disciplines — Korean and English Edition v0.9",
   "upload_type": "publication",
   "publication_type": "book",
-  "publication_date": "2026-10-19",
-  "version": "0.8",
+  "publication_date": "2026-10-22",
+  "version": "0.9",
   "creators": [
     {
       "name": "Choi, Wonsik",
@@ -11,7 +11,7 @@
       "affiliation": "Independent Researcher"
     }
   ],
-  "description": "Complete Korean and English editions, ten parts, 45 chapters and six appendices. Psychology and neuroscience serve as a case study of cross-disciplinary integration through WRRA. Prefaces, Appendix A11 and reference W1 link this domain application to the frozen WRRA Core 1.0 source paper. Conceptual correspondences (INFERRED), hypothetical calculations (COMPUTATIONAL PASS), and empirical validation remaining OPEN are distinguished. Calibration and reproduction through the architecture are legitimate explanatory achievements. Editorial and translation review used Astra at medium reasoning effort; this is AI-assisted editorial review, not external journal peer review.",
+  "description": "Complete Korean and English editions, ten parts, 45 chapters and six appendices. Psychology and neuroscience serve as a case study of cross-disciplinary integration through WRRA. Prefaces, Appendix A11 and reference W1 link this domain application to the frozen WRRA Core 1.0 source paper. Conceptual correspondences (INFERRED), hypothetical calculations (COMPUTATIONAL PASS), and empirical validation remaining OPEN are distinguished. Calibration and reproduction through the architecture are legitimate explanatory achievements. The preceding v0.8 edition received AI-assisted editorial and translation review using Astra at medium reasoning effort. The v0.9 additions specify five Core 1.0 applications, distinguish informal suggestion provenance from academic evidence, and have undergone editorial and structural checks; no new Astra review or external peer review is claimed.",
   "access_right": "open",
   "license": "cc-by-4.0",
   "keywords": [
@@ -37,5 +37,6 @@
       "relation": "isSupplementTo",
       "scheme": "url"
     }
-  ]
+  ],
+  "doi": "10.5281/zenodo.23550606"
 }
