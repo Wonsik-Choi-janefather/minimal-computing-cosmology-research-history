@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: "Please cite Wonsik Choi and the exact edition."
 type: book
 title: "WRRA Neuropsychology Exploring WRRA’s Potential for Integration Across Disciplines"
-version: "0.9"
+version: "0.10"
 date-released: 2026-10-22
 authors:
   - family-names: Choi
@@ -18,4 +18,4 @@ references:
         given-names: Wonsik
     doi: "10.5281/zenodo.22650956"
     version: "1.0.0"
-doi: "10.5281/zenodo.23550606"
+doi: "10.5281/zenodo.23552653"

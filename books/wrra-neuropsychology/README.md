@@ -2,14 +2,16 @@
 
 **WRRA의 이종 학문 통합 가능성 탐구**
 
-최원식 · 원논문 연결과 국영문판 v0.9 · 2026년 10월 22일
+최원식 · Core 2.1 의식 확장 국문판 v0.10 · 2026년 10월 22일
 
-이 책은 WRRA가 서로 다른 학문을 연결하는 데 어떤 설명적·계산적 기여를 할 수 있는지 살펴본다. 심리학과 신경과학을 첫 사례로 삼아 경험과 행동, 신경과 신체의 설명을 공통 구조로 연결한다.
+국문판은 총 12부 54장, 205쪽입니다. 새 45–53장과 부록 A12는 의식의 정의·실험·동물·인공 시스템·생성·유지·측정, 시간과 엔트로피, 우주론적 필연성, 집단무의식, 영혼·죽음·환생을 검토합니다. 신경심리학의 연구 근거와 철학적 확장 질문을 구분하며 출처와 검증 범위를 표시했습니다.
 
-독자는 각 분야의 근거에서 출발해 WRRA가 실제로 연결한 부분과 얻은 산출, 남은 검증 과제를 확인할 수 있다. 핵심 질문은 그 연결이 현상을 이해하고 계산하는 데 무엇을 더해 주는가이다.
+Core 1.0에서 출발한 기존 응용·계산을 보존하고, 구조 G와 표현형 P·계승·개입을 다루는 새 부분에 Core 2.1을 적용했습니다. 새 의식 모형의 경험적 검증은 OPEN입니다. [전체 목차](SUMMARY.md) · [서문](preface.md)
 
-[English edition](https://independent-research.gitbook.io/wrra-neuropsychology/en) · [WRRA Core 1.0 원논문](https://doi.org/10.5281/zenodo.22650956)
+[국문 PDF v0.10](https://zenodo.org/records/23552653/files/WRRA_Neuropsychology_v0.10_KO.pdf?download=1) · [국문 Word v0.10](https://zenodo.org/records/23552653/files/WRRA_Neuropsychology_v0.10_KO.docx?download=1) · [국문 소스 묶음](https://zenodo.org/records/23552653/files/WRRA_Neuropsychology_v0.10_KO_Package.zip?download=1)
 
-[전체 목차](SUMMARY.md) · [국문 Word](manuscript/WRRA_Neuropsychology_v0.9_KO.docx) · [영문 Word](manuscript/WRRA_Neuropsychology_v0.9_EN.docx) · [영문 원문](en/README.md) · [계산 재현 코드](code/reproduce_models.py)
+[Zenodo v0.10](https://doi.org/10.5281/zenodo.23552653) · [GitHub 원고와 코드](https://github.com/Wonsik-Choi-janefather/minimal-computing-cosmology-research-history/tree/main/books/wrra-neuropsychology)
 
-[v0.9 Zenodo DOI](https://doi.org/10.5281/zenodo.23550606)
+[English edition v0.10](https://independent-research.gitbook.io/wrra-neuropsychology/en) · [이전 v0.9 보존 DOI](https://doi.org/10.5281/zenodo.23550606) · [Core 1.0](https://doi.org/10.5281/zenodo.22650956) · [Core 2.1](https://github.com/Wonsik-Choi-janefather/WRRA-Core-2.1)
+
+[영문 PDF v0.10](https://zenodo.org/records/23552653/files/WRRA_Neuropsychology_v0.10_EN.pdf?download=1) · [영문 Word v0.10](https://zenodo.org/records/23552653/files/WRRA_Neuropsychology_v0.10_EN.docx?download=1)

@@ -295,3 +295,53 @@ Chapter 39 — R32 — Immediate performance versus delayed memory
 The relevant content of R56–R64 was checked on 19 October 2026 in publishers or scholarly databases, using bibliographic records, abstracts, or full texts. These sources support particular claims; the book as a whole is not a systematic review. Clinical studies are presented as findings at their publication dates with populations, comparators, and follow-up specified.
 
 Institutional introductions explain the scope of conditions and treatments; specific-effect statements connect to original studies or systematic reviews. Paragraphs on medication or psychotherapy effects do not substitute for individual treatment choices or clinical validation of WRRA models. Unperformed mechanistic connections are marked as future research.
+
+## Additional Sources for the Consciousness Extension
+
+These sources support Parts 11–12 and Appendix A12. Bibliographic details and the claims used were checked on 22 October 2026 through public texts, author materials, publisher records, or academic abstracts. This does not mean that inaccessible raw datasets were reanalyzed, nor is the list a systematic literature review.
+
+[W3](https://github.com/Wonsik-Choi-janefather/WRRA-Core-2.1) Choi, Wonsik, & Choi, Jeongin. (2026, October 15). WRRA Core 2.1. Official repository: WRRA_Core_2_1_KO.md, WRRA_Core_2_1_EN.md, and corresponding PDFs. https://github.com/Wonsik-Choi-janefather/WRRA-Core-2.1 — Primary source for G/P, inheritance, intervention, and resource-authorization contracts. Its definitions are separated from this book's consciousness application.
+
+W4 Choi, Wonsik. (2026, September 8). WRRA Consciousness Complete Theory, v2.0 [Korean author manuscript: WRRA_Consciousness_Complete_Theory_Wonsik_Choi_v2.0_KR.docx]. Source for the consciousness-as-phenotype proposal and functional agent models. “Complete” is part of the historical file title, not this book's judgment of empirical completeness. Historical numerical reports were not treated as newly rerun results.
+
+W5 Choi, Wonsik. (2026, September 12). A Universe in Which Only the Present Exists and Experienced Time: A Philosophical Essay on Minimal Computation Cosmology, v1.0 [Author-supplied Korean PDF; English title translated here]. Source for the author's memory, attention, and experienced-time hypothesis, not experimental proof of presentism or disappearance of physical time.
+
+[R71](https://doi.org/10.2307/2183914) Nagel, T. (1974). What Is It Like to Be a Bat? The Philosophical Review, 83(4), 435–450. https://doi.org/10.2307/2183914 — Original philosophical formulation of subjective experience.
+
+[R72](https://doi.org/10.1017/S0140525X00038188) Block, N. (1995). On a confusion about a function of consciousness. Behavioral and Brain Sciences, 18(2), 227–247. https://doi.org/10.1017/S0140525X00038188 — Phenomenal/access consciousness distinction.
+
+[R73](https://consc.net/papers/facing.html) Chalmers, D. J. (1995). Facing Up to the Problem of Consciousness. Journal of Consciousness Studies, 2(3), 200–219. Author text: https://consc.net/papers/facing.html — Philosophical distinction between explaining functions and experience; not an experiment establishing WRRA or every philosophical position discussed.
+
+[R74](https://doi.org/10.1212/WNL.0000000000005926) Giacino, J. T., et al. (2018). Practice guideline update recommendations summary: Disorders of consciousness. Neurology, 91(10), 450–460. https://doi.org/10.1212/WNL.0000000000005926 — AAN/ACRM/NIDILRR guideline; standardized repeated assessments and confounders.
+
+[R75](https://academic.oup.com/brain/article-abstract/97/4/709/266141) Weiskrantz, L., Warrington, E. K., Sanders, M. D., & Marshall, J. (1974). Visual capacity in the hemianopic field following a restricted occipital ablation. Brain, 97, 709–728. Publisher record: https://academic.oup.com/brain/article-abstract/97/4/709/266141 — Original lesion case. Publisher/database records contain both 10.1093/brain/97.4.709 and 10.1093/brain/97.1.709; title, authors, pages, and publisher record identify the work. Used to distinguish visual performance and report.
+
+[R76](https://doi.org/10.1016/j.tics.2006.03.007) Dehaene, S., Changeux, J.-P., Naccache, L., Sackur, J., & Sergent, C. (2006). Conscious, preconscious, and subliminal processing: A testable taxonomy. Trends in Cognitive Sciences, 10(5), 204–211. https://doi.org/10.1016/j.tics.2006.03.007 — Theoretical taxonomy and research synthesis, not one masking experiment.
+
+[R77](https://doi.org/10.1037/h0026839) Sperry, R. W. (1968). Hemisphere deconnection and unity in conscious awareness. American Psychologist, 23(10), 723–733. https://doi.org/10.1037/h0026839 — Disconnection research and interpretation of unity; not a direct count of subjects.
+
+[R78](https://doi.org/10.1126/scitranslmed.3006294) Casali, A. G., et al. (2013). A theoretically based index of consciousness independent of sensory processing and behavior. Science Translational Medicine, 5(198), 198ra105. https://doi.org/10.1126/scitranslmed.3006294 — Human TMS–EEG PCI research, not a universal object/AI consciousness meter.
+
+[R79](https://doi.org/10.1056/NEJMoa2400645) Bodien, Y. G., et al. (2024). Cognitive Motor Dissociation in Disorders of Consciousness. New England Journal of Medicine, 391, 598–608. https://doi.org/10.1056/NEJMoa2400645 — Multicenter task-based EEG/fMRI study; detection in this sample is not general-population prevalence.
+
+[R80](https://doi.org/10.1038/s41586-025-08888-1) Cogitate Consortium et al. (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. Nature, 642, 133–142. https://doi.org/10.1038/s41586-025-08888-1 — Collaborative testing of prespecified theory predictions, not final resolution of consciousness or validation of WRRA.
+
+[R81](https://doi.org/10.1016/j.tics.2020.07.007) Birch, J., Schnell, A. K., & Clayton, N. S. (2020). Dimensions of Animal Consciousness. Trends in Cognitive Sciences, 24(10), 789–801. https://doi.org/10.1016/j.tics.2020.07.007 — Source of the five-dimensional approach.
+
+[R82](https://doi.org/10.1016/j.isci.2021.102229) Crook, R. J. (2021). Behavioral and neurophysiological evidence suggests affective pain experience in octopus. iScience, 24(3), 102229. https://doi.org/10.1016/j.isci.2021.102229 — Original converging behavioral and neurophysiological evidence; nociception and affective pain are distinguished.
+
+[R83](https://sites.google.com/nyu.edu/nydeclaration/declaration) The New York Declaration on Animal Consciousness. (2024). https://sites.google.com/nyu.edu/nydeclaration/declaration — Expert declaration and background, distinguished from primary experiments.
+
+[R84](https://doi.org/10.48550/arXiv.2308.08708) Butlin, P., et al. (2023). Consciousness in Artificial Intelligence: Insights from the Science of Consciousness. arXiv:2308.08708. https://doi.org/10.48550/arXiv.2308.08708 — Theory-based research report/preprint; not a universally validated AI-consciousness test.
+
+[R85](https://doi.org/10.3389/fnhum.2014.00020) Carhart-Harris, R. L., et al. (2014). The entropic brain: A theory of conscious states informed by neuroimaging research with psychedelic drugs. Frontiers in Human Neuroscience, 8, 20. https://doi.org/10.3389/fnhum.2014.00020 — Theory paper; informational neural entropy is not identified with thermodynamic entropy.
+
+[R86](https://doi.org/10.1147/rd.53.0183) Landauer, R. (1961). Irreversibility and Heat Generation in the Computing Process. IBM Journal of Research and Development, 5(3), 183–191. https://doi.org/10.1147/rd.53.0183 — Information processing and physical costs; not evidence establishing consciousness.
+
+[R87](https://doi.org/10.1515/9781400850969.42) Jung, C. G. (1936/1968). The Concept of the Collective Unconscious. In The Archetypes and the Collective Unconscious, Collected Works, Vol. 9, Part 1, 2nd ed. (R. F. C. Hull, Trans.). Princeton University Press. Electronic chapter identifier: https://doi.org/10.1515/9781400850969.42 — Original concept; the 1936 essay, 1968 edition, and later electronic edition are distinguished.
+
+[R88](https://doi.org/10.1016/j.resuscitation.2023.109903) Parnia, S., et al. (2023). AWAreness during REsuscitation – II: A multi-center study of consciousness and awareness in cardiac arrest. Resuscitation, 191, 109903. https://doi.org/10.1016/j.resuscitation.2023.109903 — Prospective resuscitation study and survivor interviews, not proof of experience after brain death.
+
+[R89](https://doi.org/10.1016/j.explore.2008.04.001) Tucker, J. B. (2008). Children's reports of past-life memories: A review. Explore, 4(4), 244–248. https://doi.org/10.1016/j.explore.2008.04.001 — Case-research review; the existence of investigated reports is separated from establishing a reincarnation mechanism.
+
+Attribution: experience/access distinctions, multidimensional animal consciousness, PCI, the collective unconscious, and near-death/past-life research belong to the authors cited above. G/P, inheritance, and authorization come from W3; the author's consciousness-as-phenotype and experienced-time proposals come from W4–W5. Reorganizing these into verification inputs, transformations, outputs, and falsification conditions is this book's WRRA domain application. User–assistant discussions informed editorial direction but are not independent academic evidence. The earlier I1–I4 records of indirect, unverified suggestions are retained.

@@ -63,3 +63,11 @@ Empirical tests in Section 6 whose tolerances have not been specified are OPEN. 
 Reference identifiers in Section 8 lead to the bibliographic details, DOIs, and URLs in Appendix E. Core definitions are in Appendix A; numerical results and reproduction code are in Appendix D. Shared explanations are consolidated here, leaving each chapter's particular inputs, transformations, outputs, and falsification conditions in place.
 
 This book is a Domain Profile applying the frozen Core 1.0. Appendix A11 connects the paper to this application. [Core 1.0 DOI](https://doi.org/10.5281/zenodo.22650956) · [Official full text](https://github.com/Wonsik-Choi-janefather/wrra-core/blob/main/WRRA_Core_1.0_EN.md).
+
+## Scope of This Revision and the Reason for Core 2.1
+
+This English v0.10 translates the Korean consciousness extension and integrates it with the full earlier English manuscript: twelve parts and 54 chapters. Nine new chapters, 45–53, precede the former synthesis chapter, now Chapter 54. Part 11 connects neuropsychology and consciousness research. Part 12 examines extension questions, distinguishing testable subclaims from philosophical interpretation. Animal and artificial-system consciousness connect with comparative cognition and computational research; cosmological inevitability, souls, and reincarnation are not presented as established neuropsychological knowledge.
+
+Core 2.1 is applied because investigating maintenance, amendment, and inheritance requires separating present outputs from the organization generating them. Its source is Wonsik Choi and Jeongin Choi's WRRA Core 2.1 (W3); the consciousness specifications are this book's domain application. Earlier Chapters 1–44 originated under Core 1.0. Chapters 41–42 and Appendix D retain their original calculations and verification scope. Appendix A preserves the earlier explanation and adds A12 to map the extension. New chapters are not assigned fresh computational or empirical validation.
+
+Original theories and findings are credited in W3–W5 and R71–R89. The English translation preserves the distinctions among experience, observable report, functional reproduction, structural inheritance, and continuity of the same subject. This manuscript's assembly precedes online publication; it does not itself certify publication or a new external review.

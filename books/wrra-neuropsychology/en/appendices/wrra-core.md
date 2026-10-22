@@ -61,3 +61,31 @@ Core 1.0 supplies the domain-independent execution grammar. This book proposes a
 Readers may follow the route Core §§1–3 → this book's Chapter 2 and Appendix B → Chapters 41–43 and Appendix D → Chapter 45 and Appendix F. This traces definitions into an application specification, executed outputs, and the verdict on what has actually been connected. The DOI identifies an archival source; it is not a peer-review or empirical-validation certificate.
 
 Prediction terminology: this book records an unmeasured-condition output of a fixed model as that model's conditional prediction. Core §2.3 additionally specifies prediction performance through reduced loss or uncertainty for a future target. Those performance targets, comparison criteria, and loss or uncertainty measures must be specified separately when tested. This distinction does not make independent prediction a prerequisite for explanatory value or originality.
+
+## A12 Core 2.1 Extension: Separating Structure and Phenotype
+
+This section connects W3, WRRA Core 2.1, to Parts 11–12. A1–A11 above preserve the earlier explanation of Core 1.0; their tables and chapter numbers include historical references to the preceding edition. The synthesis chapter has moved from Chapter 45 to Chapter 54. Neither the frozen Core 1.0 text nor the earlier computational rules in Chapters 41–42 and Appendix D have been amended.
+
+### A12.1 Motivation and notation
+
+Core 2.1 is applied to investigate not only a current output but maintenance, amendment, and inheritance of executable organization into subsequent execution. G denotes a structural view of presently instantiated relations, rules, and capabilities; P denotes the phenotype actually instantiated under present conditions. G is not restricted to biological DNA. A stored specification and an executable organization are also different things.
+
+The state is S_k=(G_k, X_k, R_k, B_k, L_k). X is current operating state, R comprises retained effects, B denotes resources, and L is the provenance/execution ledger. G can be represented within X: recording a structural view must not duplicate resource accounting. Boundary denotes the boundary, C the common carrier, and O readout or observation. Q(a|S_k) is an authorization gate, neither an additional state component nor a consciousness index. Symbols B and Q in earlier versions require explicit mapping before comparison. [W3]
+
+### A12.2 Rendering and inheritance interfaces
+
+P_k=Render_D(G_k, X_k, R_k, Boundary_k, B_k, input_k) connects organization, state, and conditions to current output in a declared domain D. The same G may produce different P under different states, inputs, or resources. An output difference alone does not identify structural change.
+
+G_(k+1)=Inherit_D(G_k, amendment_k, retained_state_k) records the organization for subsequent execution. Specify the unit, owner, carrier, inherited components, permitted changes and tolerances for passive dynamics, reconstruction procedure, and compatibility checks. The ledger records predecessors, successors, actual amendments and evidence, costs, and checks. Damage or drift is not redefined as authorized modification. [W3]
+
+### A12.3 Resources and interventions
+
+For each resource j, check B_j−Cbound_j(a)−Hbound_j(a)≥Reserve_j. Cbound bounds action costs and Hbound bounds checking, logging, and response costs. Reserve resources before effects and recheck before commit; rejected proposals still incur checking costs. An unresolved check is OPEN with Q=0; a failed check is DENY with Q=0. Q=0 does not automatically authorize deletion, destruction, or another action; fallback requires its own contract. [W3]
+
+An output intervention changes current P without necessarily changing subsequent G. A structural intervention changes the organization used later; a mixed intervention records both. Whether a particular memory or neural change belongs to either category requires a domain specification and timescale.
+
+### A12.4 Boundaries of the consciousness application
+
+Chapter 45 distinguishes experience, function, and report; Chapter 48 distinguishes substrates and organizations and output and structural interventions; Chapter 49 distinguishes onset, maintenance, and inheritance. Chapters 50–53 extend the questions to time, the universe, groups, and personal continuity. Sufficient conditions for consciousness, subject identity, souls, and reincarnation are not established facts contained in the Core's definitions. This book's auxiliary E for experience is not a new Core state component.
+
+Core 2.1's finite-resource demonstrator distinguishes an output allocation override from a structural amendment by their consequences in subsequent execution. That demonstration does not validate brains or consciousness. Earlier Core 1.0 application computations and new Core 2.1 specifications remain separately recorded; explanation, computation, empirical adequacy, prediction, and control have distinct assessment contracts. [W1, W3]

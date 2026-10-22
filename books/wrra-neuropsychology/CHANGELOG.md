@@ -1,3 +1,7 @@
+# v0.10 · 2026-10-22
+
+국문판에 Core 2.1 의식 확장 9개 장과 부록 A12, W3–W5·R71–R89를 추가했습니다. 총 12부 54장, 205쪽입니다. 종합 45장은 54장으로 이동했고 기존 계산은 보존했습니다. 영문판도 전체 v0.10(189쪽)으로 번역·확장했습니다. Zenodo: https://doi.org/10.5281/zenodo.23552653
+
 # v0.9 2026-10-22
 
 Core 1.0 application specifications for state-dependent interpretation, perception-action loops, state estimation versus control, task costs, and memory provenance. Added R65-R70 and an explicitly indirect informal-suggestion record I1-I4. Core definitions and existing calculations are unchanged. Published on GitBook and Zenodo (10.5281/zenodo.23550606); the GitHub sources and bilingual manuscripts are released with this update.

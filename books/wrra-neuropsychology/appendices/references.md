@@ -279,3 +279,53 @@ R1 §16.2 — types of treatment — https://openstax.org/books/psychology-2e/pa
 R56–R64는 2026년 10월 19일 출판사 또는 학술 데이터베이스의 서지와 초록·본문에서 해당 내용을 확인했다. 위 문헌은 본문의 특정 주장을 보강하기 위해 선택했으며, 이 책 전체가 체계적 문헌고찰이라는 뜻은 아니다. 임상 연구는 해당 출판 시점의 연구 결과로 소개하고, 적용 대상과 비교군 및 추적 기간을 명시한다.
 
 기관의 개론 안내는 질환과 치료의 범위를 이해하는 데 사용하고, 특정 효과를 설명하는 문장은 원연구나 체계적 검토에 연결한다. 약물·심리치료의 효과를 소개한 문단은 개인별 치료 선택이나 WRRA 모형의 임상 검증을 대신하지 않는다. 미실시된 기제 연결은 후속 연구로 표시한다.
+
+## 의식 확장부의 추가 문헌과 출처
+
+다음 문헌은 제11·12부 및 부록 A12를 위해 추가했다. 외부 문헌의 서지와 본문에서 사용한 주장 범위는 2026년 10월 22일 공개 원문·저자 자료 또는 출판사·학술 데이터베이스의 초록에서 확인했다. 접근할 수 없는 원자료를 재분석했다는 뜻은 아니다. 아래의 문헌 목록은 체계적 문헌고찰이 아니다.
+
+[W3](https://github.com/Wonsik-Choi-janefather/WRRA-Core-2.1) 최원식·최정인(Wonsik Choi & Jeongin Choi). WRRA Core 2.1. 2026년 10월 15일. 공식 원문 저장소의 WRRA_Core_2_1_KO.md 및 WRRA_Core_2_1_EN.md, 동명 PDF. 구조 G와 표현형 P, 계승·개입·자원 승인 계약의 기준 원문. 원문을 확인한 뒤 본서의 의식 응용과 구별했다. https://github.com/Wonsik-Choi-janefather/WRRA-Core-2.1
+
+W4 최원식(Wonsik Choi). WRRA 의식 완전 이론 v2.0. 2026년 9월 8일. 저자 제공 원고 WRRA_Consciousness_Complete_Theory_Wonsik_Choi_v2.0_KR.docx. ‘의식은 표현형’ 구상과 기능적 에이전트 모형을 참조했다. 제목의 ‘완전’은 선행 파일의 명칭이며 본서가 경험적 완결성을 부여한 판정은 아니다. 선행 모형의 역사적 보고 수치를 이번 판에서 재실행한 계산으로 사용하지 않았다.
+
+W5 최원식(Wonsik Choi). 현재만 존재하는 우주와 체험시간: 최소계산우주론 철학논고 v1.0. 2026년 9월 12일. 저자 제공 PDF 원고. 현재 기억·주의와 체험시간의 연결을 저자 가설로 참조했다. 물리적 시간의 소멸이나 현재주의의 실험적 증명으로 사용하지 않았다.
+
+[R71](https://doi.org/10.2307/2183914) Nagel, T. (1974). What Is It Like to Be a Bat? The Philosophical Review, 83(4), 435–450. https://doi.org/10.2307/2183914 — 철학적 원논문. 주관적 경험의 문제 설정.
+
+[R72](https://doi.org/10.1017/S0140525X00038188) Block, N. (1995). On a confusion about a function of consciousness. Behavioral and Brain Sciences, 18(2), 227–247. https://doi.org/10.1017/S0140525X00038188 — 철학적 원논문. 현상적 의식과 접근 의식의 구분.
+
+[R73](https://consc.net/papers/facing.html) Chalmers, D. J. (1995). Facing Up to the Problem of Consciousness. Journal of Consciousness Studies, 2(3), 200–219. 저자 원문: https://consc.net/papers/facing.html — 기능 설명과 경험 존재의 설명을 구분하는 철학적 논증. 특정 철학 입장 전체나 WRRA를 입증하는 실험으로 사용하지 않는다.
+
+[R74](https://doi.org/10.1212/WNL.0000000000005926) Giacino, J. T., et al. (2018). Practice guideline update recommendations summary: Disorders of consciousness. Neurology, 91(10), 450–460. https://doi.org/10.1212/WNL.0000000000005926 — AAN·ACRM·NIDILRR 지침. 표준화·반복 평가와 교란 요인의 검토에 사용한다.
+
+[R75](https://academic.oup.com/brain/article-abstract/97/4/709/266141) Weiskrantz, L., Warrington, E. K., Sanders, M. D., & Marshall, J. (1974). Visual capacity in the hemianopic field following a restricted occipital ablation. Brain, 97, 709–728. 출판사 원문: https://academic.oup.com/brain/article-abstract/97/4/709/266141 — 손상 사례 원연구. 출판사와 데이터베이스에 10.1093/brain/97.4.709 및 10.1093/brain/97.1.709가 병존하여 제목·저자·쪽수와 출판사 원문을 식별 기준으로 제시한다. 시각 수행과 보고의 구분에 사용한다.
+
+[R76](https://doi.org/10.1016/j.tics.2006.03.007) Dehaene, S., Changeux, J.-P., Naccache, L., Sackur, J., & Sergent, C. (2006). Conscious, preconscious, and subliminal processing: A testable taxonomy. Trends in Cognitive Sciences, 10(5), 204–211. https://doi.org/10.1016/j.tics.2006.03.007 — 이론·연구 정리. 자극과 접근 조건의 분류이며 단일 차폐 실험이 아니다.
+
+[R77](https://doi.org/10.1037/h0026839) Sperry, R. W. (1968). Hemisphere deconnection and unity in conscious awareness. American Psychologist, 23(10), 723–733. https://doi.org/10.1037/h0026839 — 반구 연결 절단 연구와 통일성에 관한 해석. 주체 수를 직접 세는 검사로 사용하지 않는다.
+
+[R78](https://doi.org/10.1126/scitranslmed.3006294) Casali, A. G., et al. (2013). A theoretically based index of consciousness independent of sensory processing and behavior. Science Translational Medicine, 5(198), 198ra105. https://doi.org/10.1126/scitranslmed.3006294 — 인간 TMS–EEG 기반 PCI 원연구. 임의 사물이나 AI의 보편적 의식 척도로 확대하지 않는다.
+
+[R79](https://doi.org/10.1056/NEJMoa2400645) Bodien, Y. G., et al. (2024). Cognitive Motor Dissociation in Disorders of Consciousness. New England Journal of Medicine, 391, 598–608. https://doi.org/10.1056/NEJMoa2400645 — 다기관 과제 기반 EEG·fMRI 연구. 표본과 검사 조건의 검출 결과를 일반 인구의 의식 빈도로 쓰지 않는다.
+
+[R80](https://doi.org/10.1038/s41586-025-08888-1) Cogitate Consortium et al. (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. Nature, 642, 133–142. https://doi.org/10.1038/s41586-025-08888-1 — 이론의 사전 명세 예측을 비교한 공동 연구. 의식 전체의 최종 판정이나 WRRA의 검증이 아니다.
+
+[R81](https://doi.org/10.1016/j.tics.2020.07.007) Birch, J., Schnell, A. K., & Clayton, N. S. (2020). Dimensions of Animal Consciousness. Trends in Cognitive Sciences, 24(10), 789–801. https://doi.org/10.1016/j.tics.2020.07.007 — 다차원 비교의 이론·연구 검토. 다섯 차원의 출처.
+
+[R82](https://doi.org/10.1016/j.isci.2021.102229) Crook, R. J. (2021). Behavioral and neurophysiological evidence suggests affective pain experience in octopus. iScience, 24(3), 102229. https://doi.org/10.1016/j.isci.2021.102229 — 문어의 행동·신경생리 원연구. 통각과 정서적 통증에 관한 수렴 근거를 논의한다.
+
+[R83](https://sites.google.com/nyu.edu/nydeclaration/declaration) The New York Declaration on Animal Consciousness. (2024). 선언 원문 및 배경 자료: https://sites.google.com/nyu.edu/nydeclaration/declaration — 전문가 판단을 담은 선언이며 원실험과 구분한다.
+
+[R84](https://doi.org/10.48550/arXiv.2308.08708) Butlin, P., et al. (2023). Consciousness in Artificial Intelligence: Insights from the Science of Consciousness. arXiv:2308.08708. https://doi.org/10.48550/arXiv.2308.08708 — 의식 이론에서 지표를 추린 연구 보고서·프리프린트. 보편적 AI 의식 검사로 검증된 기준은 아니다.
+
+[R85](https://doi.org/10.3389/fnhum.2014.00020) Carhart-Harris, R. L., et al. (2014). The entropic brain: A theory of conscious states informed by neuroimaging research with psychedelic drugs. Frontiers in Human Neuroscience, 8, 20. https://doi.org/10.3389/fnhum.2014.00020 — 이론 논문. 신경 활동의 정보적 엔트로피를 열역학적 엔트로피와 동일시하지 않는다.
+
+[R86](https://doi.org/10.1147/rd.53.0183) Landauer, R. (1961). Irreversibility and Heat Generation in the Computing Process. IBM Journal of Research and Development, 5(3), 183–191. https://doi.org/10.1147/rd.53.0183 — 정보 처리와 물리적 비용의 원논문. 의식 존재의 판정 근거가 아니다.
+
+[R87](https://doi.org/10.1515/9781400850969.42) Jung, C. G. (1936/1968). The Concept of the Collective Unconscious. In The Archetypes and the Collective Unconscious, Collected Works, Vol. 9, Part 1, 2nd ed. (R. F. C. Hull, Trans.). Princeton University Press. 전자판 장 식별자: https://doi.org/10.1515/9781400850969.42 — 개념의 원저작. 1936년 논고·1968년 판본·후대 전자판을 구별한다.
+
+[R88](https://doi.org/10.1016/j.resuscitation.2023.109903) Parnia, S., et al. (2023). AWAreness during REsuscitation – II: A multi-center study of consciousness and awareness in cardiac arrest. Resuscitation, 191, 109903. https://doi.org/10.1016/j.resuscitation.2023.109903 — 소생 중 측정과 생존자 면담의 전향적 연구. 뇌사 후 의식 존속의 입증으로 읽지 않는다.
+
+[R89](https://doi.org/10.1016/j.explore.2008.04.001) Tucker, J. B. (2008). Children's reports of past-life memories: A review. Explore, 4(4), 244–248. https://doi.org/10.1016/j.explore.2008.04.001 — 사례 연구의 검토. 사례 보고의 존재와 환생 기제의 입증을 구분한다.
+
+추가부의 기여 귀속: 의식 경험·접근 구분, 다차원 동물 의식, PCI, 집단무의식, 임사·전생 기억 연구는 각각 위 연구자들의 기여다. G/P·계승·자원 승인 구조는 W3에, ‘의식은 표현형’과 체험시간 구상은 W4·W5에 연결한다. 이들을 장별 검증 입력·변환·산출·반증조건으로 재구성한 부분은 본서의 WRRA 응용 설계다. 사용자와 나눈 대화는 편집 방향을 정한 경위이며 독립적인 학술 근거로 사용하지 않았다. 미확인 비공식 의견 I1–I4의 기존 출처 표시는 유지한다.

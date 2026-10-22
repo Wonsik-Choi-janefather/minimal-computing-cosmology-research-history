@@ -1,9 +1,9 @@
 {
-  "title": "WRRA Neuropsychology: Exploring WRRA's Potential for Integration Across Disciplines — Korean and English Edition v0.9",
+  "title": "WRRA Neuropsychology: Exploring WRRA's Potential for Integration Across Disciplines — Core 2.1 Consciousness Extension, Korean and English v0.10",
   "upload_type": "publication",
   "publication_type": "book",
   "publication_date": "2026-10-22",
-  "version": "0.9",
+  "version": "0.10",
   "creators": [
     {
       "name": "Choi, Wonsik",
@@ -11,7 +11,7 @@
       "affiliation": "Independent Researcher"
     }
   ],
-  "description": "Complete Korean and English editions, ten parts, 45 chapters and six appendices. Psychology and neuroscience serve as a case study of cross-disciplinary integration through WRRA. Prefaces, Appendix A11 and reference W1 link this domain application to the frozen WRRA Core 1.0 source paper. Conceptual correspondences (INFERRED), hypothetical calculations (COMPUTATIONAL PASS), and empirical validation remaining OPEN are distinguished. Calibration and reproduction through the architecture are legitimate explanatory achievements. The preceding v0.8 edition received AI-assisted editorial and translation review using Astra at medium reasoning effort. The v0.9 additions specify five Core 1.0 applications, distinguish informal suggestion provenance from academic evidence, and have undergone editorial and structural checks; no new Astra review or external peer review is claimed.",
+  "description": "Complete Korean (205 pages) and English (189 pages) v0.10 manuscripts: twelve parts and 54 chapters each. Nine consciousness chapters and Appendix A12 apply Core 2.1 while preserving earlier Core 1.0 computations. W3–W5 and R71–R89 credit original research and author manuscripts. Scientific evidence, explanatory specifications and philosophical extension questions are distinguished. No new empirical validation or Astra review is claimed.",
   "access_right": "open",
   "license": "cc-by-4.0",
   "keywords": [
@@ -38,5 +38,5 @@
       "scheme": "url"
     }
   ],
-  "doi": "10.5281/zenodo.23550606"
+  "doi": "10.5281/zenodo.23552653"
 }
