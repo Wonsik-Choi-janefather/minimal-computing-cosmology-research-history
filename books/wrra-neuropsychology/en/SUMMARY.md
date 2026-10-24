@@ -75,6 +75,6 @@
   * [Appendix D Numerical Results and Reproduction Code](appendices/computation.md)
   * [Appendix E References and Thematic Reading](appendices/references.md)
   * [Appendix F Common Writing Contract for the WRRA Academic Series](appendices/writing-contract.md)
+  * [Resource budgets, residue and variance — supplement v0.1](appendices/resource-budget-supplement.md)
 * [Index](index.md)
 
-* [Resource budgets, residue and variance — supplement v0.1](appendices/resource-budget-supplement.md)

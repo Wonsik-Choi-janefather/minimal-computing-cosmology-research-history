@@ -75,9 +75,9 @@
   * [부록 D 계산 결과와 재현 코드](appendices/computation.md)
   * [부록 E 참고문헌과 주제별 읽기](appendices/references.md)
   * [부록 F WRRA 학문총서 공통 집필 계약](appendices/writing-contract.md)
+  * [자원 예산·잔여·변동성 — 보강 v0.1](appendices/resource-budget-supplement.md)
 * [찾아보기](index.md)
 
 
 * [English edition v0.9](en/README.md)
 
-* [자원 예산·잔여·변동성 — 보강 v0.1](appendices/resource-budget-supplement.md)
