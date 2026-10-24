@@ -79,3 +79,5 @@
 
 
 * [English edition v0.9](en/README.md)
+
+* [자원 예산·잔여·변동성 — 보강 v0.1](appendices/resource-budget-supplement.md)
