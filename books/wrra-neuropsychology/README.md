@@ -1,5 +1,11 @@
 # WRRA 신경심리학
 
+## 최신 개정판 v0.10-r1
+
+49장 4.4–4.7절에 목표 생성, 기능 평가, 신경계 비교와 실험 방법론 예시를 추가했습니다. [DOI](https://doi.org/10.5281/zenodo.23932535)
+
+[KO PDF](https://zenodo.org/records/23932535/files/WRRA_Neuropsychology_v0.10-r1_KO.pdf?download=1) · [KO DOCX](https://zenodo.org/records/23932535/files/WRRA_Neuropsychology_v0.10-r1_KO.docx?download=1) · [EN PDF](https://zenodo.org/records/23932535/files/WRRA_Neuropsychology_v0.10-r1_EN.pdf?download=1) · [EN DOCX](https://zenodo.org/records/23932535/files/WRRA_Neuropsychology_v0.10-r1_EN.docx?download=1)
+
 **WRRA의 이종 학문 통합 가능성 탐구**
 
 최원식 · Core 2.1 의식 확장 국문판 v0.10 · 2026년 10월 22일

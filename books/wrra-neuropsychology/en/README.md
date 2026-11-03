@@ -1,5 +1,11 @@
 # WRRA Neuropsychology
 
+## Latest revision v0.10-r1
+
+Sections 4.4–4.7 of Chapter 49 cover goal formation, functional scoring, nervous system comparisons, and an illustrative study protocol. [DOI](https://doi.org/10.5281/zenodo.23932535)
+
+[KO PDF](https://zenodo.org/records/23932535/files/WRRA_Neuropsychology_v0.10-r1_KO.pdf?download=1) · [KO DOCX](https://zenodo.org/records/23932535/files/WRRA_Neuropsychology_v0.10-r1_KO.docx?download=1) · [EN PDF](https://zenodo.org/records/23932535/files/WRRA_Neuropsychology_v0.10-r1_EN.pdf?download=1) · [EN DOCX](https://zenodo.org/records/23932535/files/WRRA_Neuropsychology_v0.10-r1_EN.docx?download=1)
+
 **Exploring WRRA's Potential for Integration Across Disciplines**
 
 Wonsik Choi · English v0.10 · Core 2.1 consciousness extension · 22 October 2026
