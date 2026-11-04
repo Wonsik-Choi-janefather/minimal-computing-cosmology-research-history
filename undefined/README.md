@@ -1,5 +1,7 @@
 # 소개
 
+최원식 · ORCID [0009-0001-4263-9772](https://orcid.org/0009-0001-4263-9772)
+
 **MCC 2.3.2와 WRRA Cross Domain 1.0까지**
 
 최원식 Wonsik Choi\
